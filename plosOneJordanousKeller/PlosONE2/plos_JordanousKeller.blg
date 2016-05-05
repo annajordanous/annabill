@@ -1,0 +1,81 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: plos_JordanousKeller.aux
+The style file: plos2015.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: references.bib
+Warning--empty author and editor in foaf
+Warning--missing publisher in foaf
+Warning--empty author and editor in geonames
+Warning--missing publisher in geonames
+Warning--empty author and editor in musicOntology
+Warning--missing publisher in musicOntology
+Warning--empty author and editor in sawsOntology
+Warning--missing publisher in sawsOntology
+Warning--empty author and editor in wordnetRKB
+Warning--missing publisher in wordnetRKB
+Warning--empty pages in weisberg88
+Warning--empty pages in bryankinns09
+Warning--empty pages in rayson00
+Warning--empty author and editor in skos
+Warning--missing publisher in skos
+Warning--empty pages in reed02
+Warning--empty pages in fernandez97
+Warning--empty pages in haase08
+Warning--empty pages in briscoe06
+You can't pop an empty literal stack for entry weeds03
+while executing---line 1874 of file plos2015.bst
+Warning--empty pages in weedsweir03
+Warning--empty author and editor in graphviz
+Warning--missing publisher in graphviz
+Warning--empty pages in miller08
+Warning--empty pages in brank05
+You can't pop an empty literal stack for entry jordanousphd
+while executing---line 1874 of file plos2015.bst
+Warning--empty author and editor in bernerslee09
+Warning--missing publisher in bernerslee09
+You've used 91 entries,
+            3170 wiz_defined-function locations,
+            1166 strings with 17444 characters,
+and the built_in function-call counts, 92363 in all, are:
+= -- 11355
+> -- 647
+< -- 34
++ -- 403
+- -- 160
+* -- 6704
+:= -- 10407
+add.period$ -- 332
+call.type$ -- 91
+change.case$ -- 74
+chr.to.int$ -- 18
+cite$ -- 117
+duplicate$ -- 8430
+empty$ -- 8929
+format.name$ -- 197
+if$ -- 22113
+int.to.chr$ -- 0
+int.to.str$ -- 91
+missing$ -- 719
+newline$ -- 453
+num.names$ -- 116
+pop$ -- 1541
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1619
+stack$ -- 0
+substring$ -- 14123
+swap$ -- 1924
+text.length$ -- 28
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 26
+while$ -- 610
+width$ -- 93
+write$ -- 1008
+(There were 2 error messages)
