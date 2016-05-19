@@ -35,7 +35,7 @@ Please ensure that your manuscript meets PLOS ONE's style requirements, includin
 
 http://www.journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and http://www.journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
  
-***** For some reason, we've fallen foul of some of these, so I'll check that *****
+***** ANNA TO DO For some reason, we've fallen foul of some of these, so I'll check that *****
 
 1.  We request that you please report additional details in your Methods:
 i) A detailed overview of the search strategy used to identify papers for the creativity corpus and non-creativity corpus
@@ -44,7 +44,8 @@ In addition, please include a figure of a flow diagram describing your search st
 We appreciate your attention to these requests."
 
 *****
-* We have added, as requested, the detailed overview of our search strategy and the methods/criteria for selecting papers. This is reported in text added in the Methods section. Thank you for the link to the flow diagram examples.
+* We have added, as requested, the detailed overview of our search strategy and the methods/criteria for selecting papers. In particular we found that it was particularly helpful, for clarity, to frame our paper selection strategy in terms of inclusion/exclusion criteria. This is reported in text added in the Methods section. 
+* Thank you for the link to the flow diagram examples.
 ***** PRISMA - ANNA TO DO THIS *****
 
 JW (Assoc Ed) 9 Mar 2016: **EO** At PRTC, please go back for crosscheck, do not ping with follow up. For crosscheck, please go back with "Thank you for submitting the above manuscript to PLOS ONE. During our internal evaluation of the manuscript, we found significant text overlap between your submission and the following previously published works, on which you are an author:
