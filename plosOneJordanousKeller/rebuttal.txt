@@ -43,7 +43,9 @@ ii) The specific methods for selecting papers, including inclusion and exclusion
 In addition, please include a figure of a flow diagram describing your search strategy (see http://prisma-statement.org/PRISMAStatement/FlowDiagram.aspx for examples)
 We appreciate your attention to these requests."
 
-***** ANNA TO DO THIS *****
+*****
+* We have added, as requested, the detailed overview of our search strategy and the methods/criteria for selecting papers. This is reported in text added in the Methods section. Thank you for the link to the flow diagram examples.
+***** PRISMA - ANNA TO DO THIS *****
 
 JW (Assoc Ed) 9 Mar 2016: **EO** At PRTC, please go back for crosscheck, do not ping with follow up. For crosscheck, please go back with "Thank you for submitting the above manuscript to PLOS ONE. During our internal evaluation of the manuscript, we found significant text overlap between your submission and the following previously published works, on which you are an author:
 
@@ -104,7 +106,9 @@ Gabora, L., O’Connor, B., & Ranjan, A. (2012). The recognizability of individu
 
 A concern I have about the methodology concerns the set of papers used in the analysis, provided in Figure 1. (Note: this figure is rather hazy; in the final paper a higher resolution version should be used.) Despite the authors’ intention to capture how is creativity is understood from a broad range of vantage points and disciplines, almost all of these papers are in psychology journals. In my view they should have included papers from other scholarly journals that discuss creativity and innovation, e.g. design, architecture, art, theatre, film, multimedia, creative writing, electronic arts, and engineering journals.
 
- ***** ANNA TO ADD DIAGRAM REPRESENTING JOURNAL MAKE UP AND COMMENT ON THIS IN REBUTTAL/DISCUSSION OF PAPER  *****
+ ***** 
+ * We have edited the figure accordingly, thank you for this feedback. Regarding the raised concern: we have added a diagram representing the disciplinary makeup of the corpus, as categorised by the journal disciplinary classification in Scopus. Additionally, we have commented on the disciplinary coverage as part of the added text in the Methods section, which give a detailed report and discussion of our search strategy and methods for compiling the corpus. 
+ *****
 
 I would suggest that the authors exaggerate the extent to which scholars differ in their view of what constitutes creativity (see p. 5). Completely unanimous agreement on anything in psychology is rare but it seems to me there is pretty unanimous agreement that creativity be defined in terms of (1) new/original and (2) useful/aesthetically appealing, or some variant of these. The authors’ approach still makes an interesting and provocative contribution even if there is widespread agreement on what creativity is.
 
