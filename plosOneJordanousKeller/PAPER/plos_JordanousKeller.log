@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  19 JUL 2016 11:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.23)  19 JUL 2016 11:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -915,10 +915,6 @@ LaTeX Font Info:    Try loading font information for U+mvs on input line 172.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-Package microtype Info: Loading generic settings for font family
-(microtype)             `cmss' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
 Package epstopdf Info: Source file: <PLOS-submission.eps>
 (epstopdf)                    date: 2016-05-05 17:26:40
 (epstopdf)                    size: 283246 bytes
@@ -927,7 +923,7 @@ Package epstopdf Info: Source file: <PLOS-submission.eps>
 (epstopdf)                    size: 15282 bytes
 (epstopdf)             Command: <repstopdf --outfile=PLOS-submission-eps-conver
 ted-to.pdf PLOS-submission.eps>
-(epstopdf)             \includegraphics on input line 226.
+(epstopdf)             \includegraphics on input line 221.
 Package epstopdf Info: Output file is already uptodate.
 
 <PLOS-submission-eps-converted-to.pdf, id=4, 216.81pt x 35.13126pt>
@@ -935,7 +931,7 @@ File: PLOS-submission-eps-converted-to.pdf Graphic file (type pdf)
 
 <use PLOS-submission-eps-converted-to.pdf>
 Package pdftex.def Info: PLOS-submission-eps-converted-to.pdf used on input lin
-e 226.
+e 221.
 (pdftex.def)             Requested size: 144.54pt x 23.42201pt.
 
 
@@ -944,6 +940,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+Package microtype Info: Loading generic settings for font family
+(microtype)             `cmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./PLOS-
@@ -1400,7 +1400,7 @@ ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2014/t
 exmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on plos_JordanousKeller.pdf (25 pages, 325129 bytes).
+Output written on plos_JordanousKeller.pdf (25 pages, 325168 bytes).
 PDF statistics:
  514 PDF objects out of 1000 (max. 8388607)
  462 compressed objects within 5 object streams
