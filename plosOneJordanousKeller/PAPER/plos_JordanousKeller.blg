@@ -7,10 +7,6 @@ Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: references.bib
-Repeated entry---line 15617 of file references.bib
- : @article{jordanous12jims
- :                         ,
-I'm skipping whatever remains of this entry
 You can't pop an empty literal stack for entry perezyperez99
 while executing---line 1874 of file plos2015.bst
 Warning--empty pages in weisberg88
@@ -28,45 +24,45 @@ Warning--empty pages in miller08
 You can't pop an empty literal stack for entry jordanousphd
 while executing---line 1874 of file plos2015.bst
 Warning--empty pages in jordanous16aisb
-You've used 83 entries,
+You've used 77 entries,
             3170 wiz_defined-function locations,
-            1124 strings with 16073 characters,
-and the built_in function-call counts, 83739 in all, are:
-= -- 10357
-> -- 551
-< -- 31
-+ -- 329
-- -- 136
-* -- 6012
-:= -- 9437
-add.period$ -- 310
-call.type$ -- 83
-change.case$ -- 64
+            1090 strings with 15202 characters,
+and the built_in function-call counts, 76406 in all, are:
+= -- 9437
+> -- 503
+< -- 30
++ -- 301
+- -- 124
+* -- 5454
+:= -- 8622
+add.period$ -- 286
+call.type$ -- 77
+change.case$ -- 62
 chr.to.int$ -- 18
-cite$ -- 94
-duplicate$ -- 7780
-empty$ -- 8073
-format.name$ -- 166
-if$ -- 20084
+cite$ -- 88
+duplicate$ -- 7105
+empty$ -- 7375
+format.name$ -- 152
+if$ -- 18349
 int.to.chr$ -- 0
-int.to.str$ -- 83
-missing$ -- 658
-newline$ -- 417
-num.names$ -- 106
-pop$ -- 1362
+int.to.str$ -- 77
+missing$ -- 602
+newline$ -- 387
+num.names$ -- 98
+pop$ -- 1267
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1458
+skip$ -- 1356
 stack$ -- 0
-substring$ -- 12753
-swap$ -- 1763
-text.length$ -- 25
+substring$ -- 11519
+swap$ -- 1627
+text.length$ -- 24
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 11
-while$ -- 567
-width$ -- 85
-write$ -- 925
-(There were 4 error messages)
+while$ -- 517
+width$ -- 79
+write$ -- 858
+(There were 3 error messages)
