@@ -233,7 +233,7 @@ Computational creativity research follows both theoretical and practical directi
 
 The evaluation of creative systems developed by researchers in the field of computational creativity has proven non-trivial. Creativity evaluation, a recurring topic for discussion, has been described as a `Grand Challenge' for computational creativity research \cite{cardoso09}. Difficulties are inherently linked to a question that both motivates and complicates the computational modelling of creativity: what  do we mean when we talk about `creativity' and what does it constitute?
 
-Creativity is a complex, multi-faceted concept encompassing a variety of related aspects, abilities, properties and behaviours. There have been many attempts to capture this concept in words; indeed the work described in this paper is based on thirty such attempts (see the Methods section and the papers listed in Table \nameref{S1_Table}). 
+Creativity is a complex, multi-faceted concept encompassing a variety of related aspects, abilities, properties and behaviours. There have been many attempts to capture this concept in words; indeed the work described in this paper is based on thirty such attempts (see the Methods section and the papers listed in \nameref{S1_Appendix}). 
 In the academic literature on creativity, many common themes have emerged. 
 However, multiple viewpoints exist, prioritising different aspects of the concept according to what are traditionally considered to be the primary factors for a particular discipline. 
 The need for a more over-arching, inclusive, multi-dimensional account of creativity has been widely recognised \cite{rhodes61,torrance67,plucker04defn,kaufman09}. Such a {\bf meta-level} account would assist our understanding of creativity, highlighting areas of common ground and avoiding the pitfalls of disciplinary bias \cite{hennessey10,plucker04}.
@@ -453,11 +453,15 @@ A sample of academic papers discussing the nature of creativity was assembled as
 \end{center}
 \vspace{0.25cm}
 
-The 30 papers selected for the creativity corpus are listed in Table \nameref{S1_Table}. 
-\textbf{The search strategy used to select papers for this corpus is illustrated in a flow diagram, in Fig. \nameref{S1_Fig}. }
+The 30 papers selected for the creativity corpus are listed in \nameref{S1_Appendix}. 
+\textbf{The search strategy used to select papers for this corpus is illustrated in a flow diagram, in Fig. \ref{searchCC}. }
 
-%**** i) A detailed overview of the search strategy used to identify papers for the creativity corpus and non-creativity corpus ****
-%**** ii) The specific methods for selecting papers, including inclusion and exclusion criteria ****
+\begin{figure}[!b]
+\caption{{\bf A flow diagram describing the search strategy used to identify papers for the creativity corpus.}}
+% REMOVE IMAGES FROM SUBMITTED VERSION
+%\includegraphics[width=\textwidth]{images/Fig1}
+\label{searchCC}
+\end{figure} 
 
 \textbf{The search strategy for identifying papers for the corpus involved a literature search for the term `creativity' on the academic database {\em Scopus} to identify suitable papers. This literature search was supplemented with additional influential papers which may have not appeared in a Scopus search; for example, a computer science conference paper on cognitive models of creativity.\footnote{It should be noted that in Computer Science, a number of conferences carry as much or more publication weight as some journals in the field.} The eligibility of each identified article was verified for inclusion in the corpus via careful manual inspection.}
 
@@ -466,9 +470,19 @@ The 30 papers selected for the creativity corpus are listed in Table \nameref{S1
 \item \textbf{Papers must have, as their primary focus, discussion of the nature of creativity.}
 \item \textbf{Papers should be considered particularly influential. Influence was generally measured objectively, in terms of the number of times a paper had been cited by other academic authors. However, for papers published in recent years and which had consequently had little time to accrue citations, selection was based instead on a subjective judgement of influence grounded in a knowledge of the field.}
 \item \textbf{Papers selected should, as far as reasonable, represent a cross-section of years over the range 1950-2009. [The corpus was compiled in 2010.] 1950 was chosen as a starting point in recognition of the effect of J. P. Guilford's presidential address to the American Psychological Association \cite{guilford50}, which examined contemporary creativity research (or more specifically, the lack of thereof). His talk was highly influential in encouraging more creativity research activity \cite{kaufman09}. }
-\item \textbf{Papers selected should, as far as reasonable, represent a cross-section of disciplines relevant to discussions of creativity. Fig. \nameref{S3_Fig} illustrates the disciplinary distribution of the corpus as it changes over the time period covered by the selected papers. This distribution is based on the {\em Scopus} database, which classifies journals under their main subject area(s) covered. We should acknowledge here though that while many disciplines include creative practice, often the focus is on application rather than in depth discussion of what creativity entails. Hence, while we sought to cover creativity from a broad range of perspectives, we also felt it was important not to compromise the focus of our corpus as a representation of key discussions about the nature of creativity.}
+\item \textbf{Papers selected should, as far as reasonable, represent a cross-section of disciplines relevant to discussions of creativity. Fig. \ref{disciplinaryDistribution} illustrates the disciplinary distribution of the corpus as it changes over the time period covered by the selected papers. This distribution is based on the {\em Scopus} database, which classifies journals under their main subject area(s) covered. We should acknowledge here though that while many disciplines include creative practice, often the focus is on application rather than in depth discussion of what creativity entails. Hence, while we sought to cover creativity from a broad range of perspectives, we also felt it was important not to compromise the focus of our corpus as a representation of key discussions about the nature of creativity.}
 \end{itemize}
 \sout{The papers were carefully chosen so as to cover a wide range of years (1950-2009) and academic disciplines. A paper was included if it was considered particularly influential, as measured by the number of times it had been cited by other academic authors. For papers published in recent years and which have consequently not yet accrued many citations, selection was based on subjective judgement of influence.}
+
+
+
+\begin{figure}[!b]
+% REMOVE IMAGES FROM SUBMITTED VERSION
+%%\includegraphics[scale=0.5]{images/Fig2}
+\caption{{\bf Representation of the disciplinary breakdown of the Creativity Corpus by time period.} \\Disciplines are as specified for the paper's journal, by the academic database {\em Scopus}. Note that Scopus may classify a journal under more than one discipline.}
+\label{disciplinaryDistribution}
+\end{figure}  
+
 
 \textbf{Exclusion criteria for this search were as follows: }
 \begin{itemize}
@@ -491,9 +505,15 @@ Our objective is to identify what is distinctive in the language used to discuss
 \end{center}
 \vspace{0.25cm}
 
-The non-creativity corpus papers were selected by a literature search retrieving, for each paper in the creativity corpus, the two most-cited papers in the same academic discipline (as categorised by  {\em Scopus}) and published in the same year, that did not contain any words with the prefix {\em creat\/} (i.e. {\em creativity\/}, {\em creative\/}, {\em creation\/}, and so on). \textbf{In other words, the criteria for inclusion in this second corpus were whether a paper was one of the two papers that was most highly cited at the time of the search (2010), in the same academic discipline, and published in the same year, as a paper in the creativity corpus, and that satisfied the exclusion criteria of not containing any words with the above mentioned prefixes. The 60 papers selected for the creativity corpus are listed in Table \nameref{S2_Table}. The search strategy used to select papers for this non-creativity corpus is illustrated in a second flow diagram, in Fig. \nameref{S2_Fig}. }
+The non-creativity corpus papers were selected by a literature search retrieving, for each paper in the creativity corpus, the two most-cited papers in the same academic discipline (as categorised by  {\em Scopus}) and published in the same year, that did not contain any words with the prefix {\em creat\/} (i.e. {\em creativity\/}, {\em creative\/}, {\em creation\/}, and so on). \textbf{In other words, the criteria for inclusion in this second corpus were whether a paper was one of the two papers that was most highly cited at the time of the search (2010), in the same academic discipline, and published in the same year, as a paper in the creativity corpus, and that satisfied the exclusion criteria of not containing any words with the above mentioned prefixes. The 60 papers selected for the creativity corpus are listed in \nameref{S2_Appendix}. The search strategy used to select papers for this non-creativity corpus is illustrated in a second flow diagram, in Fig. \ref{searchNonCC}. }
 
-%\texttt{http://www.scopus.com/})}
+\begin{figure}
+\caption{ A flow diagram describing the search strategy used to identify papers for the non-creativity corpus.}
+% REMOVE IMAGES FROM SUBMITTED VERSION
+%\includegraphics[width=\textwidth]{images/Fig3}
+\label{searchNonCC}
+\end{figure} 
+
 
 The non-creativity corpus is twice the size of the creativity corpus ($\approx$ 700,000 words and $\approx$ 300,000 words respectively), in acknowledgement of the fact that in general the set of academic papers on creativity is only a small subset of all academic papers. Both corpora are very small in comparison to corpora such as the British National Corpus, a \textbf{relatively} large  ($\approx$ 100M words) corpus of written and spoken English in general usage across a number of different contexts, and tiny in comparison to more recent web-derived text collections containing billions of words. There are, however, several benefits associated with using a corpus derived from specialist academic literature:
 
@@ -541,8 +561,38 @@ where $N_{cc}$ denotes the total number of words in corpus $cc$ (i.e. the sum of
 As computed above, the log-likelihood ratio measures the extent to which the distribution of a given word deviates from what might be expected if its distribution is not corpus dependent. The higher the log likelihood ratio score for a given word, the greater the deviation from what is expected. It should be noted however, that the statistic tells us only that  the observed distribution of a word in the two corpora is unexpected (and to what extent).  It does not  tell us whether the word is more or less frequent than expected in the creativity corpus. To identify words significantly associated with creativity therefore, it was necessary to select just those words with observed counts higher than that expected in the creativity corpus. It should perhaps be further noted that the resulting words may be either positively or negatively connoted with respect to creativity. In practice this is not a problem, as the significance of a given word lies in its semantic connection to creativity, not in its sentiment or affect. Affect is taken into account as part of the later manual examination of the data used to identify components of creativity.
 
 
-The results of the calculations were filtered to remove any words with a log-likelihood score less than 10.83, representing a chi-squared significance value for p=0.001 (one degree of freedom). In this way, the filtering process reduced the set of candidate words to just those that appear to occur significantly more often than expected in the creativity corpus. To avoid extremely infrequent words disproportionately affecting the data, any word occurring fewer than five times was also removed from the data. Finally, the words were inspected to remove any `spurious' items such as proper nouns or misclassified or odd character sequences. This resulted in a total of 694 {\em creativity words\/}: a collection of 389 nouns, 205 adjectives, 72 verbs and 28 adverbs that occurred significantly more often than expected in the creativity corpus. Table \nameref{S3_Table} gives the top 20 results of these calculations.
+The results of the calculations were filtered to remove any words with a log-likelihood score less than 10.83, representing a chi-squared significance value for p=0.001 (one degree of freedom). In this way, the filtering process reduced the set of candidate words to just those that appear to occur significantly more often than expected in the creativity corpus. To avoid extremely infrequent words disproportionately affecting the data, any word occurring fewer than five times was also removed from the data. Finally, the words were inspected to remove any `spurious' items such as proper nouns or misclassified or odd character sequences. This resulted in a total of 694 {\em creativity words\/}: a collection of 389 nouns, 205 adjectives, 72 verbs and 28 adverbs that occurred significantly more often than expected in the creativity corpus. Table \ref{creativityTop20} gives the top 20 results of these calculations.
 
+\begin{table}[!b]
+\begin{center}
+\begin{tabular}{c c | c c}
+\# & Word (\& POS tag) & LLR \\
+\hline
+\#1 & thinking (N) & 834.55  \\
+\#2 & process (N) & 612.05 \\
+\#3 & innovation (N) & 546.20 \\
+\#4 & idea (N) & 475.74  \\
+\#5 & program (N) & 474.41  \\
+\#6 & domain (N) & 436.58 \\
+\#7 & cognitive (J) & 393.79  \\
+\#8 & divergent (J) & 355.11 \\
+\#9 & openness (N) & 328.57  \\
+\#10 & discovery (N) & 327.38 \\
+\#11 & primary (J) & 326.65 \\
+\#12 & originality (N) & 315.60  \\
+\#13 & criterion (N) & 312.61  \\
+\#14 & intelligence (N) & 309.31 \\
+\#15 & ability (N) & 299.27 \\
+\#16 & knowledge (N) & 290.48  \\
+\#17 & create (V) & 280.06 \\
+\#18 & experiment (N) & 253.32 \\
+\#19 & plan (N) & 246.29 \\
+\#20 & agent (N) & 246.24  \\
+\end{tabular}
+\end{center}
+\caption{{\bf The top 20 results (in descending order) of the log-likelihood ratio (LLR) calculations.}\\ A significant LLR score at p=0.001 is 10.83. N.B. POS=Part Of Speech: N=noun, J=adjective, V=verb, R=adverb.}
+\label{creativityTop20}
+\end{table}%
 
 
 \subsection*{Identifying components of creativity}
@@ -566,9 +616,17 @@ Grammatical relations were obtained from an analysis of the written portion of t
 
 Distributional similarity of two words is measured in terms of the similarity of their associated lists of grammatical relations. A variety of different methods for calculating distributional similarity have been investigated in the literature, including standard techniques such as the cosine measure \cite[for example]{mannschu99}. The present work adopts an information-theoretic measure due to Lin \cite{lin98}, which has been widely used in language processing applications as a means of automatically discovering semantic relationships between words. In comparison to other similarity measures it has been shown to perform particularly well as a means of identifying near-synonyms \cite{weedsweir03,mccanavi09}.
 
-Similarity scores were calculated between all pairs of creativity words of the same grammatical category. That is, scores were obtained separately for pairs of nouns, verbs, adjectives and adverbs. For a given set of words, word pair similarity data calculated in this way can be conveniently visualised as an edge-weighted graph, where nodes  correspond to words and edges are weighted by similarity scores (for any score $>$ 0), as in Fig. \nameref{S4_Fig}.
+Similarity scores were calculated between all pairs of creativity words of the same grammatical category. That is, scores were obtained separately for pairs of nouns, verbs, adjectives and adverbs. For a given set of words, word pair similarity data calculated in this way can be conveniently visualised as an edge-weighted graph, where nodes  correspond to words and edges are weighted by similarity scores (for any score $>$ 0), as in Fig. \ref{conceptIdea}.
 
-Graphical representations of the similarity data like that shown in Fig. \nameref{S4_Fig} provide a useful basis for analysing the creativity words and identifying recurring themes or components of creativity. Two complementary methods for identifying key components of the data were adopted:
+\begin{figure}
+\caption{{\bf Word pairwise similarity data visualised as an edge-weighted graph.} \\Nodes  correspond to words and edges are weighted by similarity scores (for any score $>$ 0). }
+%% REMOVE IMAGES FROM SUBMITTED VERSION
+%%\includegraphics[width=\textwidth]{images/Fig4}
+\label{conceptIdea}
+\end{figure} 
+
+
+Graphical representations of the similarity data like that shown in Fig. \ref{conceptIdea} provide a useful basis for analysing the creativity words and identifying recurring themes or components of creativity. Two complementary methods for identifying key components of the data were adopted:
 
 
 
@@ -577,13 +635,26 @@ Graphical representations of the similarity data like that shown in Fig. \namere
 
 \begin{description}
 
-\item[Clustering:] The graph clustering software {\em Chinese Whispers} \cite{biemann06} was used to automatically identify word clusters (groups of closely interconnected words) in the dataset. This algorithm uses an iterative process to group together graph nodes that are located close to each other. By grouping words with similar meanings, the number of data items was effectively reduced and themes in the data could be recognised more readily from each distinct cluster. A sample of some of the resulting clusters can be seen in Fig. \nameref{S5_Fig}. %To carry out Chinese Whispers, a preprocessing step was taken to categorise words according to their parts of speech, using the RASP software \cite{carrollRASP}.
+\item[Clustering:] The graph clustering software {\em Chinese Whispers} \cite{biemann06} was used to automatically identify word clusters (groups of closely interconnected words) in the dataset. This algorithm uses an iterative process to group together graph nodes that are located close to each other. By grouping words with similar meanings, the number of data items was effectively reduced and themes in the data could be recognised more readily from each distinct cluster. A sample of some of the resulting clusters can be seen in Fig. \ref{clustersZoom}. %To carry out Chinese Whispers, a preprocessing step was taken to categorise words according to their parts of speech, using the RASP software \cite{carrollRASP}.
 
-\item[Inspection:] To focus on the words most closely related to creativity, the top twenty creativity words (i.e. the twenty  words with the highest log likelihood scores) were selected. Each word was then visualised as the root node of its own individual subgraph using the graph drawing software {\em GraphViz}\footnote{$http://www.graphviz.org/$, last accessed August 2016}. In order to reduce the amount of data to be examined, similarity scores were discarded if they fell below a threshold value (adjusted manually for each graph to highlight the most strongly connected words). This made the size and complexity of the graphs smaller and therefore easier to inspect and analyse visually. Fig. \nameref{S6_Fig} illustrates, in diagram form, the process of using manual inspection to identify components. 
+\item[Inspection:] To focus on the words most closely related to creativity, the top twenty creativity words (i.e. the twenty  words with the highest log likelihood scores) were selected. Each word was then visualised as the root node of its own individual subgraph using the graph drawing software {\em GraphViz}\footnote{$http://www.graphviz.org/$, last accessed August 2016}. In order to reduce the amount of data to be examined, similarity scores were discarded if they fell below a threshold value (adjusted manually for each graph to highlight the most strongly connected words). This made the size and complexity of the graphs smaller and therefore easier to inspect and analyse visually. Fig. \ref{clusterToComponents} illustrates, in diagram form, the process of using manual inspection to identify components. 
 
 \end{description}
 
 
+\begin{figure}
+\caption{{\bf Sample of clusters produced by the Chinese Whispers clustering step.}}
+%% REMOVE IMAGES FROM SUBMITTED VERSION
+%%\includegraphics[width=\textwidth]{images/Fig5}
+\label{clustersZoom}
+\end{figure}  
+
+\begin{figure}
+\caption{{\bf Illustration of the process of using manual inspection for further clustering.}}
+%% REMOVE IMAGES FROM SUBMITTED VERSION
+%%\includegraphics[width=\textwidth]{images/Fig6}
+\label{clusterToComponents}
+\end{figure}  
 
 
 As part of the manual inspection process, candidate components were further considered in terms of the {\em Four Ps} of creativity \cite{rhodes61,mooney63,mackinnon70,kaufman09} described earlier in this paper. This additional analysis provided a means of identifying alternative perspectives and revealing subtle (but still important) aspects of creativity.  For example, {\em novelty} is commonly associated with the results of creative behaviour ({\em product\/}): how novel is the artefact or idea that has been produced? However, we could similarly recognise as creative an approach to a task  ({\em process\/}) that does things in a novel and different way.  Also, if a product is new in a particular environment ({\em press\/}), then it may well be regarded as creative to those in that environment. Viewing {\em novelty} from the perspectives of {\em product}, {\em process} and {\em press} uncovers these subtle and interlinked distinctions.
@@ -595,12 +666,20 @@ As part of the manual inspection process, candidate components were further cons
 \subsection*{Components of creativity}\label{componentsResults}
 
 
-From the analysis steps described in the previous section it was possible to extract a set of fourteen key components of creativity. These components are summarised in Fig. \nameref{S7_Fig} 
+From the analysis steps described in the previous section it was possible to extract a set of fourteen key components of creativity. These components are summarised in Fig. \ref{components} 
 and are presented in more detail below. The components contribute collectively to the overall concept and may be regarded as providing an {\em ontology of creativity\/}.  It is important to note, however that the fourteen components do not constitute a set of necessary and sufficient conditions for creativity, in all its possible manifestations. There are two reasons for this. Firstly, some of the components we have identified appear to be logically inconsistent with others in the set. Consider for example the apparent need for autonomous, independent behaviour identified in {\em Independence and Freedom\/} and contrast this with the requirement for social interaction implied by {\em Social Interaction and Communication\/}. %\hidden{These factors may appear logically opposed.}
 Secondly, of course, creativity %\hidden{does not lend itself to formal and precise definition and 
 %I added this bit to clarify the point a bit [does not lend itself to formal and precise definition and]
 also manifests itself in rather different ways across different domains \cite{plucker04} and components will vary in importance, according to the requirements of a particular domain. As an illustration of this second point, %Can we explicitly relate this illustration to one or more of the components that have been identified?
 creative behaviour in mathematical reasoning has more focus on finding a correct solution to a problem than is the case for creative behaviour in, say,  musical improvisation \cite{colton08,jordanous12jims}. 
+
+\begin{figure} 
+%% REMOVE IMAGES FROM SUBMITTED VERSION
+\caption{{\bf The fourteen key components of creativity identified through an analysis of the word clusters.}}
+%%\includegraphics[width=\textwidth]{images/Fig7}
+\label{components}
+\end{figure}
+
 
 The following set of fourteen components is therefore presented as a collection of dimensions -- attributes, abilities and behaviours, etc. -- which contribute to our understanding of creativity. The components should be treated as {\em building blocks} for creativity that may be arranged in different ways and with different emphases to suit different modelling purposes. The analysis of creativity in terms of the dimensions should be informative for a human audience and provide a basis for machine-understanding of the concept. %This approach is informed by debates in cognitive linguistics, computational linguistics and through philosophical underpinnings (see Background section). 
  Each component is presented here with a brief explanation or gloss. These explanations will later be used for part of the semantic content in the creativity ontology.
@@ -687,7 +766,7 @@ The fourteen components provide a fuller and clearer account of the constituent 
 In particular, the components are linked to the data in WordNet \cite{fellbaum98}, a large lexical database of English that has recently been made available as a Semantic Web ontology \footnote{$http://wordnet.rkbexplorer.com/$, last accessed August 2016}. In WordNet, words are grouped by sense and interlinked by lexical and conceptual relations. Note that, although the WordNet definition of the word such as `creativity' is brief (`the ability to create'), its utility lies in how it is linked to various concepts, such as its sense, hyponyms, type, `gloss' (brief definition) and other related concepts. Each creativity component relates to a cluster of keywords from the original set of 694 creativity words. Following Linked Data principles, each can therefore be linked across the Semantic Web to an appropriate set of concepts from WordNet. In this way,  associated semantic information is provided for each component. 
 %The SKOS ontology incorporates three main classes:  {\em skos:Concept}  (anything we may want to record information about), {\em skos:ConceptScheme} (a set that collectively defines a skos:Concept) and  {\em skos:Collection} (a collection of semantically-related information). An instance of {\em skos:ConceptScheme\/} was created as {\em CreativityComponents}, to represent the set of components that defines the {\em skos:Concept\/} of {\em Creativity}. Each component is represented as an individual {\em skos:Concept\/}. 
 
-The resulting encoding can be visualised as a graph, as shown in Fig. \nameref{S8_Fig}. 
+The resulting encoding can be visualised as a graph, as shown in Fig. \ref{ontologyGraph}. 
 The data has also been published under an Open Data Commons Public Domain Dedication and Licence (PDDL) \cite{miller08} at:
 %as an OWL/XML file at:
 \begin{quote}
@@ -701,6 +780,12 @@ The concept labelled {\em Creativity} has the unique URI:
 \end{quote}%
 Any Linked Data that needs to refer to the concept can use this identifier. 
 
+\begin{figure}
+\caption{{\bf The ontology of creativity generated from this work's results, in graph form.}}
+%% REMOVE IMAGES FROM SUBMITTED VERSION
+%%\includegraphics[scale=0.5]{images/Fig8}
+\label{ontologyGraph}
+\end{figure}
 
 
 
@@ -778,7 +863,7 @@ To support the usefulness of having the components as a tangible characterisatio
 This paper has described the methods used to identify a set of {\em components of creativity} using corpus-based, statistical language processing techniques. The motivation for the work is the need for a shared, comprehensive and multi-perspective model of creativity. Such a model should be of great value to researchers investigating the nature of creativity and in particular those concerned with the evaluation of creative practice. More broadly, the inter-disciplinary approach described here exemplifies a general approach to the investigation and representation of semantically fuzzy and essentially-contested concepts. For this reason, we expect that it will interest researchers investigating computational methods for analysing and representing other such concepts.
 
 
-Rather than attempting to provide a unitary definition of creativity, our approach extracts common, underlying themes that transcend discipline or domain bias. Our point of departure is the observation that the vocabulary used in discussions of the nature of creativity may be analysed in order to throw light on our understanding of the concept and its key attributes. Using techniques from corpus linguistics and natural language processing (as described in the Methods section), key components of creativity have been identified. The results of this novel, empirical analysis (presented in the Results section) inform the development of an {\em ontology of creativity\/} comprising a set of fourteen distinct components (see Fig. \nameref{S7_Fig}).
+Rather than attempting to provide a unitary definition of creativity, our approach extracts common, underlying themes that transcend discipline or domain bias. Our point of departure is the observation that the vocabulary used in discussions of the nature of creativity may be analysed in order to throw light on our understanding of the concept and its key attributes. Using techniques from corpus linguistics and natural language processing (as described in the Methods section), key components of creativity have been identified. The results of this novel, empirical analysis (presented in the Results section) inform the development of an {\em ontology of creativity\/} comprising a set of fourteen distinct components (see Fig. \ref{components}).
 It is noted that each component makes a separate contribution to the overall meaning of the concept. At the same time, because creativity manifests itself in different ways across different domains \cite{plucker04}, the individual components vary in importance and influence according to the requirements of a given domain. The components can be therefore be usefully thought of as 'building blocks' for the concept in its different manifestations. Taken together, the components make creativity more tractable to study and to evaluate. 
 
 The fourteen components provide a multi-perspective model of creativity that has been successfully applied in a comparative analysis and evaluation of computational creativity systems \cite{jordanous12cc,jordanousphd,jordanous16aisb} (see the Discussions section). The outcome of the evaluation process provides relatively fine-grained information about the creative strengths of a given system. This information in turn evidences ways in which a system could be considered creative. In addition, evaluation based on the components is able to highlight areas of weakness. These can be used to inform future work aimed at further developing a system's creative potential.
@@ -794,345 +879,110 @@ The problem of developing automated evaluation has elsewhere been described as `
 
 % Include only the SI item label in the subsection heading. Use the \nameref{label} command to cite SI items in the text.
 
-%\subsection*{S1 Video}
-%\label{S1_Video}
-%{\bf Bold the first sentence.}  Maecenas convallis mauris sit amet sem ultrices gravida. Etiam eget sapien nibh. Sed ac ipsum eget enim egestas ullamcorper nec euismod ligula. Curabitur fringilla pulvinar lectus consectetur pellentesque.
+\subsection*{S1 Appendix}\label{S1_Appendix}
+{\bf Creativity Corpus.}  The following 30 papers were used as the {\em creativity corpus} for this work:
 
-%\subsection*{S1 Text}
-%\label{S1_Text}
-%{\bf Lorem Ipsum.} Maecenas convallis mauris sit amet sem ultrices gravida. Etiam eget sapien nibh. Sed ac ipsum eget enim egestas ullamcorper nec euismod ligula. Curabitur fringilla pulvinar lectus consectetur pellentesque.
-
-%%%%%%
-% FIGURES
-%%%%%%
-
-
-\subsection*{S1 Fig}\label{S1_Fig} 
-{\bf A flow diagram describing the search strategy used to identify papers for the creativity corpus} 
-%\begin{figure}
-%\caption{ A flow diagram describing the search strategy used to identify papers for the creativity corpus}
-% REMOVE IMAGES FROM SUBMITTED VERSION
-%\includegraphics[width=\textwidth]{images/PRISMAcc}
-%\label{S1_Fig}
-%\end{figure} 
-
-\subsection*{S2 Fig}\label{S2_Fig}
-{\bf A flow diagram describing the search strategy used to identify papers for the non-creativity corpus} 
-%\begin{figure}
-%\caption{ A flow diagram describing the search strategy used to identify papers for the non-creativity corpus}
-% REMOVE IMAGES FROM SUBMITTED VERSION
-%\includegraphics[width=\textwidth]{images/PRISMAncc}
-%\label{S2_Fig}
-%\end{figure} 
-
-\subsection*{S3 Fig}
-\label{S3_Fig}
-{\bf Representation of the disciplinary breakdown of the Creativity Corpus by time period. Disciplines are as specified for the paper's journal, by the academic database {\em Scopus}. Note that Scopus may classify a journal under more than one discipline.} 
-%\begin{figure}[!ht]
-% \begin{center}
-%\includegraphics[scale=0.5]{images/disciplines}
-% \end{center}
-% \caption{Representation of the disciplinary breakdown of the Creativity Corpus by time period. Disciplines are as specified for the paper's journal, by the academic database {\em Scopus}. Note that Scopus may classify a journal under more than one discipline.}
-% \label{S3_Fig}
-%\end{figure}  
-
-
-\subsection*{S4 Fig}\label{S4_Fig}
-{\bf Word pairwise similarity data visualised as an edge-weighted graph, where nodes  correspond to words and edges are weighted by similarity scores (for any score $>$ 0). } 
-%\begin{figure}
-%\caption{Word pairwise similarity data visualised as an edge-weighted graph, where nodes  correspond to words and edges are weighted by similarity scores (for any score $>$ 0). }
-% REMOVE IMAGES FROM SUBMITTED VERSION
-%\includegraphics[width=\textwidth]{images/conceptIdea}
-%\label{S4_Fig}
-%\end{figure} 
-
-\subsection*{S5 Fig}
-\label{S5_Fig}
-{\bf Sample of clusters produced by the Chinese Whispers clustering step.}
-%\begin{figure}
-% \caption{Sample of clusters produced by the Chinese Whispers clustering step.}
-%\includegraphics[width=\textwidth]{images/clustersZoom}
-% \label{S5_Fig}
-% REMOVE IMAGES FROM SUBMITTED VERSION
-%\end{figure}  
-
-\subsection*{S6 Fig}
-\label{S6_Fig}
-{\bf Illustration of the process of using manual inspection for further clustering.}
-%\begin{figure}
-% \caption{Illustration of the process of using manual inspection for further clustering.}
-%\includegraphics[width=\textwidth]{images/clusterToComponents}
-% \label{S6_Fig}
-% REMOVE IMAGES FROM SUBMITTED VERSION
-%\end{figure}  
-
-\subsection*{S7 Fig}
-\label{S7_Fig}
-{\bf The fourteen key components of creativity identified through an analysis of the word clusters}
-%\begin{figure} 
-%\caption{The fourteen key components of creativity identified through an analysis of the word clusters}
-%\includegraphics[width=\textwidth]{images/factorsOnly}
-%\label{S7_Fig}
-%\end{figure}
-
-\subsection*{S8 Fig}
-\label{S8_Fig}
-{\bf The ontology of Creativity, in graph form.}
-%\begin{figure}
-%\caption{The ontology of Creativity, in graph form.}
-%\includegraphics[scale=0.5]{images/ontGraph}
-%\label{S8_Fig}
-%\end{figure}
-
-%%%%%%
-% TABLES
-%%%%%%
-\subsection*{S1 Table}\label{S1_Table}
-{\bf The 30 papers that make up the Creativity Corpus} 
-\begin{table}[!h]%dp]
-\begin{adjustwidth}{-2.25in}{0in} % Comment out/remove adjustwidth environment if table fits in text column.
-\footnotesize
-\begin{center}
-\begin{tabular}{l}
-Paper \\
-\hline
-T. M. Amabile. The social psychology of creativity: A componential conceptualization. \\ 	
-	\hspace{10mm} Journal of Personality and Social Psychology, 45(2):357-376, 1983. \\
-M. A. Boden. Precis of The Creative Mind: Myths and mechanisms.  \\ 	
-	\hspace{10mm} Behavioural and Brain Sciences, 17(3):519-570, 1994. \\
-D. T. Campbell. Blind variation and selective retentions in creative thought as in other knowledge processes.  \\ 	
-	\hspace{10mm} Psychological Review, 67(7):380-400, 1960. \\
-S. Colton, A. Pease \& G. Ritchie. The effect of input knowledge on creativity.  \\ 	
-	\hspace{10mm} In Proceedings of Workshop Program of ICCBR-Creative Systems, 2001. \\
-M. Csikszentmihalyi. Motivation and creativity: Toward a synthesis of structural and energistic approaches to cognition.  \\ 	
-	\hspace{10mm} New Ideas in Psychology, 6(2):159-176, 1988. \\
-M. Dellas \&  E. L. Gaier. Identification of creativity: The individual.  \\ 	
-	\hspace{10mm} Psychological Bulletin, 73(1):55- 73, 1970. \\
-A. Dietrich. The cognitive neuroscience of creativity.  \\ 	
-	\hspace{10mm} Psychonomic Bulletin \& Review, 11(6):1011-1026, 2004. \\
-G. Domino. Identification of potentially creative persons from the adjective check list.  \\ 	
-	\hspace{10mm} Journal of Consulting and Clinical Psychology, 35(1):48-51, 1970. \\
-W. Duch. Intuition, insight, imagination and creativity.  \\ 	
-	\hspace{10mm} IEEE Computational Intelligence Magazine, 2(3):40-52, 2007. \\
-C. S. Findlay \&  C. J. Lumsden. The creative mind: Toward an evolutionary theory of discovery and innovation.  \\ 	
-	\hspace{10mm} Journal of Social and Biological Systems, 11(1):3-55, 1988. \\
-C. M. Ford. A theory of individual creative action in multiple social domains.  \\ 	
-	\hspace{10mm} The Academy of Management Review, 21(4):1112-1142, 1996. \\
-J. Gero. Creativity, emergence and evolution in design.  \\ 	
-	\hspace{10mm} Knowledge-Based Systems, 9(7):435-448, 1996.  \\
-H. G. Gough. A creative personality scale for the adjective checklist.  \\ 	
-	\hspace{10mm} Journal of Personality and Social Psychology, 37(8):1398-1405, 1979. \\
-J. P. Guilford. Creativity.  \\ 	
-	\hspace{10mm} American Psychologist, 5:444-454, 1950. \\
-Z. Ivcevic. Creativity map: Toward the next generation of theories of creativity.  \\ 	
-	\hspace{10mm} Psychology of Aesthetics, Creativity, and the Arts, 3(1):17-21, 2009. \\
-K. H. Kim. Can we trust creativity tests? A review of the Torrance tests of creative thinking (TTCT).  \\ 	
-	\hspace{10mm} Creativity Research Journal, 18(1):3-14, 2006. \\
-L. A. King, L. McKee Walker \&  S. J. Broyles. Creativity and the five-factor model.  \\ 	
-	\hspace{10mm} Journal of Research in Personality, 30(2):189-203, 1996. \\
-R. R. McCrae. Creativity, divergent thinking, and openness to experience.  \\ 	
-	\hspace{10mm} Journal of Personality and Social Psychology, 52(6):1258-1265, 1987. \\
-S. A. Mednick. The associative basis of the creative process.  \\ 	
-	\hspace{10mm} Psychological Review, 69(3):220-232, 1962.  \\
-M. D. Mumford \&  S. B. Gustafson. Creativity syndrome: Integration, application, and innovation.  \\ 	
-	\hspace{10mm} Psychological Bulletin, 103(1):27-43, 1988.  \\
-M. T. Pearce, D. Meredith \&  G. A. Wiggins. Motivations and methodologies for automation of the compositional process.  \\ 	
-	\hspace{10mm} Musicae Scientae, 6(2):119-147, 2002. \\
-J. A. Plucker, R. A. Beghetto \&  G. T. Dow. Why isn't creativity more important to educational psychologists? \\ 	
-	\hspace{10mm}  Potentials, pitfalls, and future directions in creativity research. \\ 	
-	\hspace{10mm}  Educational Psychologist, 39(2):83-96, 2004. \\
-R. Richards, D. K. Kinney, M. Benet \& A. P. C. Merzel. Assessing everyday creativity: \\ 	
-	\hspace{10mm}  Characteristics of the lifetime creativity scales and validation with three large samples.  \\ 	
-	\hspace{10mm} Journal of Personality and Social Psychology, 54(3):476-485, 1988. \\
-G. Ritchie. The transformational creativity hypothesis.  \\ 	
-	\hspace{10mm} New Generation Computing, 24(3):241-266, 2006. \\
-G. Ritchie. Some empirical criteria for attributing creativity to a computer program.  \\ 	
-	\hspace{10mm} Minds and Machines, 17:67-99, 2007. \\
-D. L. Rubenson \&  M. A. Runco. The psychoeconomic approach to creativity.  \\ 	
-	\hspace{10mm} New Ideas in Psychology, 10(2):131-147, 1992. \\
-M. A. Runco \&  I. Chand. Cognition and creativity.  \\ 	
-	\hspace{10mm} Educational Psychology Review, 7(3):243-267, 1995. \\
-D. K. Simonton. Creativity: Cognitive, personal, developmental, and social aspects.  \\ 	
-	\hspace{10mm} American Psychologist, 55(1):151-158, 2000. \\
-J. R. Suler. Primary process thinking and creativity.  \\ 	
-	\hspace{10mm} Psychological Bulletin, 88(1):144-165, 1980. \\
-G. A. Wiggins. A preliminary framework for description, analysis and comparison of creative systems. \\ 	
-	\hspace{10mm}  Knowledge-Based Systems, 19(7):449-458, 2006.
-\end{tabular}
-\end{center}
-\normalsize
-\caption{The 30 papers that make up the Creativity Corpus}
-\end{adjustwidth}
-\end{table}%
+\begin{itemize}
+\item T. M. Amabile. The social psychology of creativity: A componential conceptualization. Journal of Personality and Social Psychology, 45(2):357-376, 1983.
+\item M. A. Boden. Precis of The Creative Mind: Myths and mechanisms. Behavioural and Brain Sciences, 17(3):519-570, 1994.
+\item D. T. Campbell. Blind variation and selective retentions in creative thought as in other knowledge processes. Psychological Review, 67(7):380-400, 1960.
+\item S. Colton, A. Pease, and G. Ritchie. The effect of input knowledge on creativity. In Proceedings of Workshop Program of ICCBR-Creative Systems: Approaches to Creativity in AI and Cognitive Science, 2001.
+\item M. Csikszentmihalyi. Motivation and creativity: Toward a synthesis of structural and energistic approaches to cognition. New Ideas in Psychology, 6(2):159-176, 1988.
+\item M. Dellas and E. L. Gaier. Identification of creativity: The individual. Psychological Bulletin, 73(1):55- 73, 1970.
+\item A. Dietrich. The cognitive neuroscience of creativity. Psychonomic Bulletin \& Review, 11(6):1011-1026, 2004.
+\item G. Domino. Identification of potentially creative persons from the adjective check list. Journal of Consulting and Clinical Psychology, 35(1):48-51, 1970.
+\item W. Duch. Intuition, insight, imagination and creativity. IEEE Computational Intelligence Magazine, 2(3):40-52, 2007.
+\item C. S. Findlay and C. J. Lumsden. The creative mind: Toward an evolutionary theory of discovery and innovation. Journal of Social and Biological Systems, 11(1):3-55, 1988.
+\item C. M. Ford. A theory of individual creative action in multiple social domains. The Academy of Management Review, 21(4):1112-1142, 1996.
+\item J. Gero. Creativity, emergence and evolution in design. Knowledge-Based Systems, 9(7):435-448, 1996. 
+\item H. G. Gough. A creative personality scale for the adjective checklist. Journal of Personality and Social Psychology, 37(8):1398-1405, 1979.
+\item J. P. Guilford. Creativity. American Psychologist, 5:444-454, 1950.
+\item Z. Ivcevic. Creativity map: Toward the next generation of theories of creativity. Psychology of Aesthetics, Creativity, and the Arts, 3(1):17-21, 2009.
+\item K. H. Kim. Can we trust creativity tests? A review of the Torrance tests of creative thinking (TTCT). Creativity Research Journal, 18(1):3-14, 2006.
+\item L. A. King, L. McKee Walker, and S. J. Broyles. Creativity and the five-factor model. Journal of Research in Personality, 30(2):189-203, 1996.
+\item R. R. McCrae. Creativity, divergent thinking, and openness to experience. Journal of Personality and Social Psychology, 52(6):1258-1265, 1987.
+\item S. A. Mednick. The associative basis of the creative process. Psychological Review, 69(3):220-232, 1962. 
+\item M. D. Mumford and S. B. Gustafson. Creativity syndrome: Integration, application, and innovation. Psychological Bulletin, 103(1):27-43, 1988. 
+\item M. T. Pearce, D. Meredith, and G. A. Wiggins. Motivations and methodologies for automation of the compositional process. Musicae Scientae, 6(2):119-147, 2002.
+\item J. A. Plucker, R. A. Beghetto, and G. T. Dow. Why isn't creativity more important to educational psychologists? Potentials, pitfalls, and future directions in creativity research. Educational Psychologist, 39(2):83-96, 2004.
+\item R. Richards, D. K. Kinney, M. Benet, and A. P. C. Merzel. Assessing everyday creativity: Characteristics of the lifetime creativity scales and validation with three large samples. Journal of Personality and Social Psychology, 54(3):476-485, 1988.
+\item G. Ritchie. The transformational creativity hypothesis. New Generation Computing, 24(3):241-266, 2006.
+\item G. Ritchie. Some empirical criteria for attributing creativity to a computer program. Minds and Machines, 17:67-99, 2007.
+\item D. L. Rubenson and M. A. Runco. The psychoeconomic approach to creativity. New Ideas in Psychology, 10(2):131-147, 1992.
+\item M. A. Runco and I. Chand. Cognition and creativity. Educational Psychology Review, 7(3):243-267, 1995.
+\item D. K. Simonton. Creativity: Cognitive, personal, developmental, and social aspects. American Psychologist, 55(1):151-158, 2000.
+\item J. R. Suler. Primary process thinking and creativity. Psychological Bulletin, 88(1):144-165, 1980.
+\item G. A. Wiggins. A preliminary framework for description, analysis and comparison of creative systems. Knowledge-Based Systems, 19(7):449-458, 2006.
+\end{itemize}
 
 
 
-\subsection*{S2 Table}\label{S2_Table}
-{\bf The 60 papers that make up the Non-Creativity Corpus} 
-\begin{table}[!h]%dp]
-\begin{adjustwidth}{-2.25in}{0in} % Comment out/remove adjustwidth environment if table fits in text column.
-\footnotesize
-\begin{center}
-\begin{tabular}{l}
-Paper \\
-\hline 
-C. Ames \& J. Archer. Achievement goals in the classroom: Students' learning strategies and motivation processes. \\ 	
-	\hspace{10mm} Journal of Educational Psychology, 80(3):260-267, 1988. \\ % Cited by:  (since 1996) 639. \\
-J. Anderson \& D. Gerbing. Structural equation modeling in practice: A review and recommended two-step approach. \\ 	
-	\hspace{10mm} Psychological Bulletin, 103(3):411-423, 1988. \\ % Cited by:  (since 1996) 3884. \\
-J. Arnett. Emerging adulthood: A theory of development from the late teens through the twenties. \\ 	
-	\hspace{10mm} American Psychologist, 55(5):469-480, 2000. \\ % Cited by:  (since 1996) 800. \\
-M. Arulampalam, S. Maskell, N. Gordon \& T. Clapp. A tutorial on particle filters for online nonlinear/non-gaussian bayesian tracking. \\ 	
-	\hspace{10mm} IEEE Transactions on Signal Processing, 50(2):174-188, 2002. \\ % Cited by:  (since 1996) 1984. \\
-A. Baddeley. Exploring the central executive. \\ 	
-	\hspace{10mm} Quarterly Journal of Experimental Psychology Section A: Human Experimental Psychology, 49(1):5-28, 1996. \\ % Cited by:  (since 1996) 672. \\
-T. Baker, M. Piper, D. McCarthy, M. Majeskie \& M. Fiore. Addiction motivation reformulated: An affective processing model of negative reinforcement. \\ 	
-	\hspace{10mm} Psychological Review, 111(1):33-51, 2004. \\ % Cited by:  (since 1996) 177. \\
-P. Barnett \& I. Gotlib. Psychosocial functioning and depression: Distinguishing among antecedents, concomitants \& consequences. \\ 	
-	\hspace{10mm} Psychological Bulletin, 104(1):97-126, 1988. \\ % Cited by:  (since 1996) 366. \\
-J. Baron. Nonconsequentialist decisions. \\ 	
-	\hspace{10mm} Behavioral \& Brain Sciences, 17(1):1-42, 1994. \\ % Cited by:  (since 1996) 68. \\
-F. Beach. The snark was a boojum. \\ 	
-	\hspace{10mm} American Psychologist, 5(4):115-124, 1950. \\ % Cited by:  (since 1996) 32. \\
-M. Belkin, P. Niyogi \& V. Sindhwani. \\ 	
-	\hspace{10mm} Manifold regularization: A geometric framework for learning from labeled and unlabeled examples. Journal of Machine Learning Research, 7:2399-2434, 2006. \\ % Cited by:  (since 1996) 145. \\
-G. Bonanno. Loss, trauma \& human resilience: Have we underestimated the human capacity to thrive after extremely aversive events? \\ 
-	\hspace{10mm} American Psychologist, 59(1):20-28, 2004. \\ % Cited by:  (since 1996) 352. \\
-T. Chan \& L. Vese. Active contours without edges. \\ 	
-	\hspace{10mm} IEEE Transactions on Image Processing, 10(2):266-277, 2001. \\ % Cited by:  (since 1996) 1520. \\
-H. Cheng \& J. Schweitzer. Cultural values reflected in Chinese and U.S. television commercials. \\ 	
-	\hspace{10mm} Journal of Advertising Research, 36(3):27-45, 1996. \\ % Cited by:  (since 1996) 88. \\
-C. Coello Coello. Evolutionary multi-objective optimization: A historical view of the field. \\ 	
-	\hspace{10mm} IEEE Computational Intelligence Magazine, 1(1):28-36, 2006. \\ % Cited by:  (since 1996) 109. \\
-D. Comaniciu \& P. Meer. Mean shift: A robust approach toward feature space analysis. \\ 	
-	\hspace{10mm} IEEE Transactions on Pattern Analysis \& Machine Intelligence, 24(5):603-619, 2002.  \\ % Cited by:  (since 1996) 1613 \\
-L. Cronbach \& L. Furby. How we should measure `change': Or should we? \\ 	
-	\hspace{10mm} Psychological Bulletin, 74(1):68-80, 1970. \\ % Cited by: (since 1996) 526. \\
-M. Davis. Measuring individual differences in empathy: Evidence for a multidimensional approach. \\ 	
-	\hspace{10mm} Journal of Personality \& Social Psychology, 44(1):113-126, 1983. \\ % Cited by:  (since 1996) 631. \\
-J. Dem\~{s}ar. Statistical comparisons of classifiers over multiple data sets. \\ 	
-	\hspace{10mm} Journal of Machine Learning Research, 7:1-30, 2006. \\ % Cited by:  (since 1996) 389. \\
-M. Dorigo, M. Birattari \& T. St\"{u}tzle. Ant colony optimization artificial ants as a computational intelligence technique. \\ 	
-	\hspace{10mm} IEEE Computational Intelligence Magazine, 1(4):28-39, 2006. \\ % Cited by:  (since 1996) 134. \\
-E. Fischer \& J. Turner. Orientations to seeking professional help: Development and research utility of an attitude scale. \\ 	
-	\hspace{10mm} Journal of Consulting \& Clinical Psychology, 35(1 PART 1):79-90, 1970. \\ % Cited by:  (since 1996) 189. \\
-J. Gibson. Observations on active touch. \\ 	
-	\hspace{10mm} Psychological Review, 69(6):477-491, 1962. \\ % Cited by:  (since 1996) 179. \\
-A. Gopnik \& J. Astington. Children's understanding of representational change and its relation to the understanding of false belief and the appearance-reality distinction. \\ 	
-	\hspace{10mm} Child development, 59(1):26-37, 1988. \\ % Cited by:  (since 1996) 314. \\
-S. Gosling, S. Vazire, S. Srivastava \& O. John. Should we trust web-based studies? A comparative analysis of six preconceptions about internet questionnaires. \\ 	
-	\hspace{10mm} American Psychologist, 59(2):93-104, 2004. \\ % Cited by:  (since 1996) 313. \\
-J. Gray. The psychophysiological basis of introversion-extraversion. \\ 	
-	\hspace{10mm} Behaviour Research \& Therapy, 8(3):249-266, 1970. \\ % Cited by:  (since 1996) 225. \\
-B. Grosz \& S. Kraus. Collaborative plans for complex group action. \\ 	
-	\hspace{10mm} Artificial Intelligence, 86(2):269- 357, 1996. \\ % Cited by:  (since 1996) 275. \\
-P. Groves \& R. Thompson. Habituation: A dual-process theory. \\ 	
-	\hspace{10mm} Psychological Review, 77(5):419-450, 1970. \\ % Cited by:  (since 1996) 375. \\
-M. Hall, J. Anderson, S. Amarasinghe, B. Murphy, S.-W. Liao, E. Bugnion \& M. Lam. Maximizing multiprocessor performance with the SUIF compiler. \\ 	
-	\hspace{10mm} Computer, 29(12):84-89, 1996. \\ % Cited by:  (since 1996) 161. \\
-F. Happ\'{e}. The role of age and verbal ability in the theory of mind task performance of subjects with autism. Child development, 66(3):843-855, 1995. \\ % Cited by:  (since 1996) 285. \\
-C. Harland. Supply chain management: Relationships, chains and networks. \\ 	
-	\hspace{10mm} British Journal of Management, 7(SPEC. ISS.):S63-S80, 1996. \\ % Cited by:  (since 1996) 172. \\
-S. Hayes, K. Strosahl, K. Wilson, R. Bissett, J. Pistorello, D. Toarmino, M. Polusny, T. Dykstra, S. Batten, J. Bergan, S. Stewart, M. Zvolensky, G. Eifert, F. Bond, J. Forsyth, M. Karekla \& S. McCurry. Measuring experiential avoidance: A preliminary test of a working model. \\ 	
-	\hspace{10mm} Psychological Record, 54(4):553-578, 2004. \\ % Cited by:  (since 1996) 168. \\
-J. Hirsch \& K. L\"{u}cke. Overview no. 76. mechanism of deformation and development of rolling textures in polycrystalline f.c.c. metals-i. description of rolling texture development in homogeneous cuzn alloys. \\ 	
-	\hspace{10mm} Acta Metallurgica, 36(11):2863-2882, 1988. \\ % Cited by:  (since 1996) 243. \\
-P. Killeen. Mathematical principles of reinforcement. \\ 	
-	\hspace{10mm} Behavioral \& Brain Sciences, 17(1):105-172, 1994. \\ % Cited by:  (since 1996) 86. \\
-P. Kirschner, J. Sweller \& R. Clark. Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential \& inquiry-based teaching. \\ 	
-	\hspace{10mm} Educational Psychologist, 41(2):75-86, 2006. \\ % Cited by:  (since 1996) 139. \\
-S. Liao. Notes on the homotopy analysis method: Some definitions and theorems. \\ 	
-	\hspace{10mm} Communications in Nonlinear Science \& Numerical Simulation, 14(4):983-997, 2009. \\ % Cited by:  (since 1996) 56. \\
-C. Lord, L. Ross \& M. Lepper. Biased assimilation and attitude polarization: The effects of prior theories on subsequently considered evidence. \\ 	
-	\hspace{10mm} Journal of Personality \& Social Psychology, 37(11):2098- 2109, 1979. \\ % Cited by:  (since 1996) 523. \\
-S. Luthar, D. Cicchetti \& B. Becker. The construct of resilience: A critical evaluation and guidelines for future work. \\ 	
-	\hspace{10mm} Child Development, 71(3):543-562, 2000. \\ % Cited by:  (since 1996) 566. \\
-G. Mandler. Recognizing: The judgment of previous occurrence. \\ 	
-	\hspace{10mm} Psychological Review, 87(3):252-271, 1980. \\ % Cited by:  (since 1996) 877. \\
-G. Miller \& J. Selfridge. Verbal context and the recall of meaningful material. \\ 	
-	\hspace{10mm} The American journal of psychology, 63(2):176-185, 1950. \\ % Cited by:  (since 1996) 57. \\
-S. Miller. Monitoring and blunting: Validation of a questionnaire to assess styles of information seeking under threat. \\ 	
-	\hspace{10mm} Journal of Personality \& Social Psychology, 52(2):345-353, 1987. \\ % Cited by:  (since 1996) 385. \\
-G. Navarro \& V. M\"{a}kinen. Compressed full-text indexes. \\ 	
-	\hspace{10mm} ACM Computing Surveys, 39(1), 2007. \\ % Cited by:  (since 1996) 62. \\
-M. Nissen \& P. Bullemer. Attentional requirements of learning: Evidence from performance measures. \\ 	
-	\hspace{10mm} Cognitive Psychology, 19(1):1-32, 1987. \\ % Cited by:  (since 1996) 729. \\
-J. Payne, J. Bettman \& E. Johnson. Adaptive strategy selection in decision making. \\ 	
-	\hspace{10mm} Journal of Experimental Psychology: Learning, Memory \& Cognition, 14(3):534-552, 1988. \\ % Cited by:  (since 1996) 300. \\
-J. Prochaska, C. DiClemente \& J. Norcross. In search of how people change: Applications to addictive behaviors. \\ 	
-	\hspace{10mm} American Psychologist, 47(9):1102-1114, 1992. \\ % Cited by:  (since 1996) 2742. \\
-T. Richardson, M. Shokrollahi \& R. Urbanke. Design of capacity-approaching irregular low-density parity-check codes. \\ 	
-	\hspace{10mm} IEEE Transactions on Information Theory, 47(2):619-637, 2001. \\ % Cited by:  (since 1996) 1162. \\
-W. Rozeboom. The fallacy of the null-hypothesis significance test. \\ 	
-	\hspace{10mm} Psychological Bulletin, 57(5):416-428, 1960. \\ % Cited by:  (since 1996) 133. \\
-C. Rusbult. A longitudinal test of the investment model: The development (and deterioration) of satisfaction and commitment in heterosexual involvements. \\ 	
-	\hspace{10mm} Journal of Personality \& Social Psychology, 45(1):101-117, 1983. \\ % Cited by:  (since 1996) 301. \\
-T. Ryan. Significance tests for multiple comparison of proportion, variance, and other statistics. \\ 	
-	\hspace{10mm} Psychological Bulletin, 57(4):318-328, 1960. \\ % Cited by:  (since 1996) 154. \\
-W. Schultz. Behavioral theories and the neurophysiology of reward. \\ 	
-	\hspace{10mm} Annual Review of Psychology, 57:87-115, 2006. \\ % Cited by:  (since 1996) 226. \\
-E. Sirin, B. Parsia, B. Grau, A. Kalyanpur \& Y. Katz. Pellet: A practical OWL-DL reasoner. \\ 	
-	\hspace{10mm} Web Semantics, 5(2):51-53, 2007. \\ % Cited by:  (since 1996) 125. \\
-T. Srull \& R. Wyer. The role of category accessibility in the interpretation of information about persons: Some determinants and implications. \\ 	
-	\hspace{10mm} Journal of Personality \& Social Psychology, 37(10):1660- 1672, 1979. \\ % Cited by:  (since 1996) 374. \\
-J. Steiger. Tests for comparing elements of a correlation matrix. \\ 	
-	\hspace{10mm} Psychological Bulletin, 87(2):245-251, 1980. \\ % Cited by:  (since 1996) 705. \\
-L. Steinberg, S. Lamborn, S. Dornbusch \& N. Darling. Impact of parenting practices on adolescent achievement: authoritative parenting, school involvement, and encouragement to succeed. \\ 	
-	\hspace{10mm} Child development, 63(5):1266-1281, 1992. \\ % Cited by:  (since 1996) 435. \\
-D. Tao, X. Li, X. Wu, W. Hu \& S. Maybank. Supervised tensor learning. \\ 	
-	\hspace{10mm} Knowledge \& Information Systems, 13(1):1-42, 2007. \\ % Cited by:  (since 1996) 54. \\
-A. Tellegen, D. Lykken, T. Bouchard Jr., K. Wilcox, N. Segal \& S. Rich. Personality similarity in twins reared apart and together. \\ 	
-	\hspace{10mm} Journal of Personality \& Social Psychology, 54(6):1031-1039, 1988. \\ % Cited by:  (since 1996) 398. \\
-L. Thomas \& D. Ganster. Impact of family-supportive work variables on work-family conflict and strain: A control perspective. \\ 	
-	\hspace{10mm} Journal of Applied Psychology, 80(1):6-15, 1995. \\ % Cited by:  (since 1996) 339. \\
-I. Thompson. Coupled reaction channels calculations in nuclear physics. \\ 	
-	\hspace{10mm} Computer Physics Reports, 7(4):167-212, 1988. \\ % Cited by:  (since 1996) 360. \\
-E. Tulving. Subjective organization in free recall of ``unrelated'' words. \\ 	
-	\hspace{10mm} Psychological Review, 69(4):344- 354, 1962. \\ % Cited by:  (since 1996) 121. \\
-U. Von Luxburg. A tutorial on spectral clustering. \\ 	
-	\hspace{10mm} Statistics \& Computing, 17(4):395-416, 2007. \\ % Cited by:  (since 1996) 107. \\
-J. Williams, A. Mathews \& C. MacLeod. The emotional Stroop task and psychopathology. \\ 	
-	\hspace{10mm} Psychological Bulletin, 122(1):3-24, 1996. \\ % Cited by:  (since 1996) 716. \\
-J. Wright, A. Yang, A. Ganesh, S. Sastry \& Y. Ma. Robust face recognition via sparse representation. \\ 	
-	\hspace{10mm} IEEE Transactions on Pattern Analysis \& Machine Intelligence, 31(2):210-227, 2009. \\ % Cited by:  (since 1996) 46.
-\end{tabular}
-\end{center}
-\normalsize
-\caption{The 60 papers that make up the Non-Creativity Corpus}
-\end{adjustwidth}
-\end{table}%
 
-\subsection*{S3 Table}\label{S3_Table}
-{\bf The top 20 results (in descending order) of the log-likelihood ratio (LLR) calculations. A significant LLR score at p=0.001 is 10.83. N.B. POS=Part Of Speech: N=noun, J=adjective, V=verb, R=adverb.} 
-\begin{table}[!h]%dp]
-\begin{center}
-\begin{tabular}{c c | c c}
-\# & Word (\& POS tag) & LLR \\
-\hline
-\#1 & thinking (N) & 834.55  \\
-\#2 & process (N) & 612.05 \\
-\#3 & innovation (N) & 546.20 \\
-\#4 & idea (N) & 475.74  \\
-\#5 & program (N) & 474.41  \\
-\#6 & domain (N) & 436.58 \\
-\#7 & cognitive (J) & 393.79  \\
-\#8 & divergent (J) & 355.11 \\
-\#9 & openness (N) & 328.57  \\
-\#10 & discovery (N) & 327.38 \\
-\#11 & primary (J) & 326.65 \\
-\#12 & originality (N) & 315.60  \\
-\#13 & criterion (N) & 312.61  \\
-\#14 & intelligence (N) & 309.31 \\
-\#15 & ability (N) & 299.27 \\
-\#16 & knowledge (N) & 290.48  \\
-\#17 & create (V) & 280.06 \\
-\#18 & experiment (N) & 253.32 \\
-\#19 & plan (N) & 246.29 \\
-\#20 & agent (N) & 246.24  \\
-\end{tabular}
-\end{center}
-\caption{The top 20 results (in descending order) of the log-likelihood ratio (LLR) calculations. A significant LLR score at p=0.001 is 10.83. N.B. POS=Part Of Speech: N=noun, J=adjective, V=verb, R=adverb.}
-\end{table}%
+\subsection*{S2 Appendix}\label{S2_Appendix}
+\bf{Non-Creativity Corpus.} The following 60 papers were used as the {\em non-creativity corpus} for this work:
+
+\begin{itemize}
+\item C. Ames and J. Archer. Achievement goals in the classroom: Students' learning strategies and motivation processes. Journal of Educational Psychology, 80(3):260-267, 1988. % Cited by:  (since 1996) 639.
+\item J. Anderson and D. Gerbing. Structural equation modeling in practice: A review and recommended two-step approach. Psychological Bulletin, 103(3):411-423, 1988. % Cited by:  (since 1996) 3884.
+\item J. Arnett. Emerging adulthood: A theory of development from the late teens through the twenties. American Psychologist, 55(5):469-480, 2000. % Cited by:  (since 1996) 800.
+\item M. Arulampalam, S. Maskell, N. Gordon, and T. Clapp. A tutorial on particle filters for online nonlinear/non-gaussian bayesian tracking. IEEE Transactions on Signal Processing, 50(2):174-188, 2002. % Cited by:  (since 1996) 1984.
+\item A. Baddeley. Exploring the central executive. Quarterly Journal of Experimental Psychology Section A: Human Experimental Psychology, 49(1):5-28, 1996. % Cited by:  (since 1996) 672.
+\item T. Baker, M. Piper, D. McCarthy, M. Majeskie, and M. Fiore. Addiction motivation reformulated: An affective processing model of negative reinforcement. Psychological Review, 111(1):33-51, 2004. % Cited by:  (since 1996) 177.
+\item P. Barnett and I. Gotlib. Psychosocial functioning and depression: Distinguishing among antecedents, concomitants, and consequences. Psychological Bulletin, 104(1):97-126, 1988. % Cited by:  (since 1996) 366.
+\item J. Baron. Nonconsequentialist decisions. Behavioral and Brain Sciences, 17(1):1-42, 1994. % Cited by:  (since 1996) 68.
+\item F. Beach. The snark was a boojum. American Psychologist, 5(4):115-124, 1950. % Cited by:  (since 1996) 32.
+\item M. Belkin, P. Niyogi, and V. Sindhwani. Manifold regularization: A geometric framework for learning from labeled and unlabeled examples. Journal of Machine Learning Research, 7:2399-2434, 2006. % Cited by:  (since 1996) 145.
+\item G. Bonanno. Loss, trauma, and human resilience: Have we underestimated the human capacity to thrive after extremely aversive events? American Psychologist, 59(1):20-28, 2004. % Cited by:  (since 1996) 352.
+\item T. Chan and L. Vese. Active contours without edges. IEEE Transactions on Image Processing, 10(2):266-277, 2001. % Cited by:  (since 1996) 1520.
+\item H. Cheng and J. Schweitzer. Cultural values reflected in Chinese and U.S. television commercials. Journal of Advertising Research, 36(3):27-45, 1996. % Cited by:  (since 1996) 88.
+\item C. Coello Coello. Evolutionary multi-objective optimization: A historical view of the field. IEEE Computational Intelligence Magazine, 1(1):28-36, 2006. % Cited by:  (since 1996) 109.
+\item D. Comaniciu and P. Meer. Mean shift: A robust approach toward feature space analysis. IEEE Transactions on Pattern Analysis and Machine Intelligence, 24(5):603-619, 2002.  % Cited by:  (since 1996) 1613
+\item L. Cronbach and L. Furby. How we should measure `change': Or should we? Psychological Bulletin, 74(1):68-80, 1970. % Cited by: (since 1996) 526.
+\item M. Davis. Measuring individual differences in empathy: Evidence for a multidimensional approach. Journal of Personality and Social Psychology, 44(1):113-126, 1983. % Cited by:  (since 1996) 631.
+\item J. Dem\~{s}ar. Statistical comparisons of classifiers over multiple data sets. Journal of Machine Learning Research, 7:1-30, 2006. % Cited by:  (since 1996) 389.
+\item M. Dorigo, M. Birattari, and T. St\"{u}tzle. Ant colony optimization artificial ants as a computational intelligence technique. IEEE Computational Intelligence Magazine, 1(4):28-39, 2006. % Cited by:  (since 1996) 134.
+\item E. Fischer and J. Turner. Orientations to seeking professional help: Development and research utility of an attitude scale. Journal of Consulting and Clinical Psychology, 35(1 PART 1):79-90, 1970. % Cited by:  (since 1996) 189.
+\item J. Gibson. Observations on active touch. Psychological Review, 69(6):477-491, 1962. % Cited by:  (since 1996) 179.
+\item A. Gopnik and J. Astington. Children's understanding of representational change and its relation to the understanding of false belief and the appearance-reality distinction. Child development, 59(1):26-37, 1988. % Cited by:  (since 1996) 314.
+\item S. Gosling, S. Vazire, S. Srivastava, and O. John. Should we trust web-based studies? A comparative analysis of six preconceptions about internet questionnaires. American Psychologist, 59(2):93-104, 2004. % Cited by:  (since 1996) 313.
+\item J. Gray. The psychophysiological basis of introversion-extraversion. Behaviour Research and Therapy, 8(3):249-266, 1970. % Cited by:  (since 1996) 225.
+\item B. Grosz and S. Kraus. Collaborative plans for complex group action. Artificial Intelligence, 86(2):269- 357, 1996. % Cited by:  (since 1996) 275.
+\item P. Groves and R. Thompson. Habituation: A dual-process theory. Psychological Review, 77(5):419-450, 1970. % Cited by:  (since 1996) 375.
+\item M. Hall, J. Anderson, S. Amarasinghe, B. Murphy, S.-W. Liao, E. Bugnion, and M. Lam. Maximizing multiprocessor performance with the SUIF compiler. Computer, 29(12):84-89, 1996. % Cited by:  (since 1996) 161.
+\item F. Happ\'{e}. The role of age and verbal ability in the theory of mind task performance of subjects with autism. Child development, 66(3):843-855, 1995. % Cited by:  (since 1996) 285.
+\item C. Harland. Supply chain management: Relationships, chains and networks. British Journal of Management, 7(SPEC. ISS.):S63-S80, 1996. % Cited by:  (since 1996) 172.
+\item S. Hayes, K. Strosahl, K. Wilson, R. Bissett, J. Pistorello, D. Toarmino, M. Polusny, T. Dykstra, S. Batten, J. Bergan, S. Stewart, M. Zvolensky, G. Eifert, F. Bond, J. Forsyth, M. Karekla, and S. McCurry. Measuring experiential avoidance: A preliminary test of a working model. Psychological Record, 54(4):553-578, 2004. % Cited by:  (since 1996) 168.
+\item J. Hirsch and K. L\"{u}cke. Overview no. 76. mechanism of deformation and development of rolling textures in polycrystalline f.c.c. metals-i. description of rolling texture development in homogeneous cuzn alloys. Acta Metallurgica, 36(11):2863-2882, 1988. % Cited by:  (since 1996) 243.
+\item P. Killeen. Mathematical principles of reinforcement. Behavioral and Brain Sciences, 17(1):105-172, 1994. % Cited by:  (since 1996) 86.
+\item P. Kirschner, J. Sweller, and R. Clark. Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. Educational Psychologist, 41(2):75-86, 2006. % Cited by:  (since 1996) 139.
+\item S. Liao. Notes on the homotopy analysis method: Some definitions and theorems. Communications in Nonlinear Science and Numerical Simulation, 14(4):983-997, 2009. % Cited by:  (since 1996) 56.
+\item C. Lord, L. Ross, and M. Lepper. Biased assimilation and attitude polarization: The effects of prior theories on subsequently considered evidence. Journal of Personality and Social Psychology, 37(11):2098- 2109, 1979. % Cited by:  (since 1996) 523.
+\item S. Luthar, D. Cicchetti, and B. Becker. The construct of resilience: A critical evaluation and guidelines for future work. Child Development, 71(3):543-562, 2000. % Cited by:  (since 1996) 566.
+\item G. Mandler. Recognizing: The judgment of previous occurrence. Psychological Review, 87(3):252-271, 1980. % Cited by:  (since 1996) 877.
+\item G. Miller and J. Selfridge. Verbal context and the recall of meaningful material. The American journal of psychology, 63(2):176-185, 1950. % Cited by:  (since 1996) 57.
+\item S. Miller. Monitoring and blunting: Validation of a questionnaire to assess styles of information seeking under threat. Journal of Personality and Social Psychology, 52(2):345-353, 1987. % Cited by:  (since 1996) 385.
+\item G. Navarro and V. M\"{a}kinen. Compressed full-text indexes. ACM Computing Surveys, 39(1), 2007. % Cited by:  (since 1996) 62.
+\item M. Nissen and P. Bullemer. Attentional requirements of learning: Evidence from performance measures. Cognitive Psychology, 19(1):1-32, 1987. % Cited by:  (since 1996) 729.
+\item J. Payne, J. Bettman, and E. Johnson. Adaptive strategy selection in decision making. Journal of Experimental Psychology: Learning, Memory, and Cognition, 14(3):534-552, 1988. % Cited by:  (since 1996) 300.
+\item J. Prochaska, C. DiClemente, and J. Norcross. In search of how people change: Applications to addictive behaviors. American Psychologist, 47(9):1102-1114, 1992. % Cited by:  (since 1996) 2742.
+\item T. Richardson, M. Shokrollahi, and R. Urbanke. Design of capacity-approaching irregular low-density parity-check codes. IEEE Transactions on Information Theory, 47(2):619-637, 2001. % Cited by:  (since 1996) 1162.
+\item W. Rozeboom. The fallacy of the null-hypothesis significance test. Psychological Bulletin, 57(5):416-428, 1960. % Cited by:  (since 1996) 133.
+\item C. Rusbult. A longitudinal test of the investment model: The development (and deterioration) of satisfaction and commitment in heterosexual involvements. Journal of Personality and Social Psychology, 45(1):101-117, 1983. % Cited by:  (since 1996) 301.
+\item T. Ryan. Significance tests for multiple comparison of proportion, variance, and other statistics. Psychological Bulletin, 57(4):318-328, 1960. % Cited by:  (since 1996) 154.
+\item W. Schultz. Behavioral theories and the neurophysiology of reward. Annual Review of Psychology, 57:87-115, 2006. % Cited by:  (since 1996) 226.
+\item E. Sirin, B. Parsia, B. Grau, A. Kalyanpur, and Y. Katz. Pellet: A practical OWL-DL reasoner. Web Semantics, 5(2):51-53, 2007. % Cited by:  (since 1996) 125.
+\item T. Srull and R. Wyer. The role of category accessibility in the interpretation of information about persons: Some determinants and implications. Journal of Personality and Social Psychology, 37(10):1660- 1672, 1979. % Cited by:  (since 1996) 374.
+\item J. Steiger. Tests for comparing elements of a correlation matrix. Psychological Bulletin, 87(2):245-251, 1980. % Cited by:  (since 1996) 705.
+\item L. Steinberg, S. Lamborn, S. Dornbusch, and N. Darling. Impact of parenting practices on adolescent achievement: authoritative parenting, school involvement, and encouragement to succeed. Child development, 63(5):1266-1281, 1992. % Cited by:  (since 1996) 435.
+\item D. Tao, X. Li, X. Wu, W. Hu, and S. Maybank. Supervised tensor learning. Knowledge and Information Systems, 13(1):1-42, 2007. % Cited by:  (since 1996) 54.
+\item A. Tellegen, D. Lykken, T. Bouchard Jr., K. Wilcox, N. Segal, and S. Rich. Personality similarity in twins reared apart and together. Journal of Personality and Social Psychology, 54(6):1031-1039, 1988. % Cited by:  (since 1996) 398.
+\item L. Thomas and D. Ganster. Impact of family-supportive work variables on work-family conflict and strain: A control perspective. Journal of Applied Psychology, 80(1):6-15, 1995. % Cited by:  (since 1996) 339.
+\item I. Thompson. Coupled reaction channels calculations in nuclear physics. Computer Physics Reports, 7(4):167-212, 1988. % Cited by:  (since 1996) 360.
+\item E. Tulving. Subjective organization in free recall of ``unrelated'' words. Psychological Review, 69(4):344- 354, 1962. % Cited by:  (since 1996) 121.
+\item U. Von Luxburg. A tutorial on spectral clustering. Statistics and Computing, 17(4):395-416, 2007. % Cited by:  (since 1996) 107.
+\item J. Williams, A. Mathews, and C. MacLeod. The emotional stroop task and psychopathology. Psychological Bulletin, 122(1):3-24, 1996. % Cited by:  (since 1996) 716.
+\item J. Wright, A. Yang, A. Ganesh, S. Sastry, and Y. Ma. Robust face recognition via sparse representation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 31(2):210-227, 2009. % Cited by:  (since 1996) 46.
+\end{itemize}
 
 
 \section*{Acknowledgments}
