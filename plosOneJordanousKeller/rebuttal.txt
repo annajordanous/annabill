@@ -38,64 +38,51 @@ The only text which is common to both articles is a quotation of the SPECS metho
 
 We have uploaded all data generated during this study to one of the author's repository at http://users.sussex.ac.uk/~billk/bill_keller/downloads/index.html and we have added details and a link to the submitted DataAvailabilityStatement.rtf.
  
-3. Please upload a copy of Figure1-6, to which you refer ithroughtout your manuscript. If the figure is no longer to be included as part of the submission please remove all reference to it within the text.
+>> Reviewer #1: 
 
-4. Please include a copy of Table 1 which you refer to in your text on page 11.
+>> This is interesting paper that could have some value in the literature on creativity and innovation. The conceptual framing of the paper did not work for me, but I see a path forward for the authors that would help clarify what they’re trying to do – and the implications that can be drawn from their results.
+>> My major concerns about the paper are (a) the implied reification in the title, abstract, and introduction; and (b) that the authors aren’t really attempting to come up with a definition at all.
+>> Implied reification. To say that creativity is subjective and difficult if not impossible to define would have been understandable 20 years ago, but this was a major weakness of the field and many scholars have tackled the issue. Several highly cited papers have focused the field on a general definition – interestingly, this paper cites most of them – and most creativity scholars consider this to be a minor issue in the field today. To frame a paper such as this one around the idea that the definition of creativity is subjective and still needs to be found is a bit odd, as it implies that creativity is a real thing that we have yet to discover adequately. But creativity doesn’t really exist; rather, it’s a label we made up to describe certain behaviors and outcomes. So “discovering” the definition feels weird to me. The authors can disagree with the definitions at hand, or revise them, or argue that we’ve been defining it incorrectly all this time – those would all be fair perspectives (e.g., Dean Keith Simonton makes these arguments regularly, and his analyses are moving the field forward). But to argue that we haven’t hit on the right definition yet? I’m not sure that’s a workable approach.
+>> Is the point really a definition? I suspect it’s not. The resulting “definition” (Figures S5 and S6) doesn’t strike me as a definition at all. It’s a clever, unique approach to a model (or maybe even the beginnings of a theory) of creativity, essentially a meta-model along the lines of what Vartanian (2014) called for recently. But I know of no one – not a scholar, not a practitioner – who would provide such a “definition” when asked what creativity is. But if asked for a model on how creativity emerges, I think the authors’ proposed model is something they would share.
 
-***** THESE WERE INCLUDED BUT NEEDED TO BE HIGHER RESOLUTION (SEE REVIEWER 2 COMMENTS) - ANNA TO REVISE FIGURES/TABLES  *****
+We are very grateful for the feedback from the first reviewer. We agree that the point of the work is not to provide a definition at all, but to present an approach to a model of creativity. We are particularly pleased that the reviewer feels that there is merit in the general approach and that the proposed model is something that other scholars and practitioners would share. This was a very helpful and informative comment and has helped us to reframe the paper in terms of developing a model of creativity. 
 
-Reviewer #1: This is interesting paper that could have some value in the literature on creativity and innovation. The conceptual framing of the paper did not work for me, but I see a path forward for the authors that would help clarify what they’re trying to do – and the implications that can be drawn from their results.
+Thank you to the reviewer also for pointing us at Vartanian (2014) which is very relevant to the current work: we have added a citation in the Background section (line no.: ??). The title has been amended to reflect the reframing and we have carefully edited the text throughout to ensure that the emphasis on modelling rather than definition is clear. The abstract and introductory sections have been reframed accordingly, in particular the Background section. The resulting changes mean that the paper provides a clearer account of the work, and a contribution towards understanding what processes and concepts relevant to creativity are 'sufficiently important to warrant study' based on 'an accumulation of the body of work on creativity to date' (Vartanian 2014).
 
-My major concerns about the paper are (a) the implied reification in the title, abstract, and introduction; and (b) that the authors aren’t really attempting to come up with a definition at all.
+>> In general, I found the methods to be well-explained and carefully done, but I have some experience using these methods (albeit limited), and other reviewers without such experience may request greater detail, which I would understand. But for me, they felt appropriate and offered a unique way to get at the components of creativity.
 
-Implied reification. To say that creativity is subjective and difficult if not impossible to define would have been understandable 20 years ago, but this was a major weakness of the field and many scholars have tackled the issue. Several highly cited papers have focused the field on a general definition – interestingly, this paper cites most of them – and most creativity scholars consider this to be a minor issue in the field today. To frame a paper such as this one around the idea that the definition of creativity is subjective and still needs to be found is a bit odd, as it implies that creativity is a real thing that we have yet to discover adequately. But creativity doesn’t really exist; rather, it’s a label we made up to describe certain behaviors and outcomes. So “discovering” the definition feels weird to me. The authors can disagree with the definitions at hand, or revise them, or argue that we’ve been defining it incorrectly all this time – those would all be fair perspectives (e.g., Dean Keith Simonton makes these arguments regularly, and his analyses are moving the field forward). But to argue that we haven’t hit on the right definition yet? I’m not sure that’s a workable approach.
+We have added more detail on the methodology for identifying papers, as requested by the editor, in the Methods section. We have also reviewed our reporting of the technical details of the methods, and feel that they are sufficiently clear, after some small edits to the Corpus Data section of Methods, regarding pre-processing. The other reviewer has not raised any questions about methods, so we hope that we have been successful in our attempts to make the methods accessible to an audience without NLP or statistical analysis experience.
 
-Is the point really a definition? I suspect it’s not. The resulting “definition” (Figures S5 and S6) doesn’t strike me as a definition at all. It’s a clever, unique approach to a model (or maybe even the beginnings of a theory) of creativity, essentially a meta-model along the lines of what Vartanian (2014) called for recently. But I know of no one – not a scholar, not a practitioner – who would provide such a “definition” when asked what creativity is. But if asked for a model on how creativity emerges, I think the authors’ proposed model is something they would share.
+>> I recommend reframing the paper as a meta-model or meta-theory employing previously unused methods. That gets to the heart of the matter much more directly (and accurately), and it speaks to the type of work Vartanian and others have been calling for as the field of creativity matures.
 
- ***** BILL TO DEAL WITH ABOVE POINTS AND REFRAMING  *****
+This reframing has been done (as noted in the earlier comment).
 
-In general, I found the methods to be well-explained and carefully done, but I have some experience using these methods (albeit limited), and other reviewers without such experience may request greater detail, which I would understand. But for me, they felt appropriate and offered a unique way to get at the components of creativity.
 
- ***** ANNA TO ADD MORE DETAIL ON METHODOLOGY FOR IDENTIFYING PAPERS AS REQUESTED BY EDITOR. 
-       BILL TO CHECK TECHNICAL DETAIL OF METHODS AND SEE IF THEY ARE REPORTED IN AN APPROPRIATE LEVEL OF DETAIL  *****
+>> Reviewer #2: Review of “Creativity is what we say it is: identifying key components of creativity” for PLoS ONE
 
-I recommend reframing the paper as a meta-model or meta-theory employing previously unused methods. That gets to the heart of the matter much more directly (and accurately), and it speaks to the type of work Vartanian and others have been calling for as the field of creativity matures.
+>> This paper proposes that creativity be defined in terms of themes emerging as a result of word clusters analysis of scholarly papers on creativity. I am not convinced that this approach captures the essence of what creativity is (any more than doing this kind of word cluster analysis of your own name on the internet would capture the essence of who you are). I am sympathetic with Gabora, O’Connor, & Ranjan’s (2012) conviction of that creativity needs to be defined in terms of internal change to the creator’s network of understandings. I am not altogether convinced by the authors’ that this kind of analysis makes creativity easier to evaluate. However, the approach is new and interesting and at the very least could provoke fruitful discussion of what is meant by creativity. Therefore I believe it could make a valuable contribution to the literature.
 
- ***** THIS FITS INTO THE WORK BILL IS DOING FOR THE ABOVE POINT  *****
+We are glad that the reviewer finds this work novel and interesting, and that the results of this approach can make a valuable contribution to existing discussions of what is meant by creativity. We are grateful for the reviewer pointing us to the paper by Gabora et al, which presents an interesting perspective. We have added a citation to this paper to make sure we include this perspective in discussion about different takes on how creativity may be theorised.
 
-Reference
-Vartanian, O. (2014). Toward a cumulative psychological science of aesthetics, creativity, and the arts. Psychology of Aesthetics , Creativity , and the Arts, 8(1), 15-17.
+>> A concern I have about the methodology concerns the set of papers used in the analysis, provided in Figure 1. (Note: this figure is rather hazy; in the final paper a higher resolution version should be used.) 
 
- ***** LET'S BOTH READ THIS! BILL TO ADD SOME CONTENT RELATIVE TO THIS WHILE DEALING WITH REVIEWER 1's FIRST POINT *****
+This image and several others have been edited for clarity.
 
-Reviewer #2: Review of “Creativity is what we say it is: identifying key components of creativity” for PLoS ONE
+>> Despite the authors’ intention to capture how is creativity is understood from a broad range of vantage points and disciplines, almost all of these papers are in psychology journals. In my view they should have included papers from other scholarly journals that discuss creativity and innovation, e.g. design, architecture, art, theatre, film, multimedia, creative writing, electronic arts, and engineering journals.
 
-This paper proposes that creativity be defined in terms of themes emerging as a result of word clusters analysis of scholarly papers on creativity. I am not convinced that this approach captures the essence of what creativity is (any more than doing this kind of word cluster analysis of your own name on the internet would capture the essence of who you are). 
-
-***** BILL I'M SURE WE COULD ADD REFERENCES TO SUPPORT OUR APPROACH AGAINST THIS CRITICISM? ****
-
-I am sympathetic with Gabora, O’Connor, & Ranjan’s (2012) conviction of that creativity needs to be defined in terms of internal change to the creator’s network of understandings. I am not altogether convinced by the authors’ that this kind of analysis makes creativity easier to evaluate. However, the approach is new and interesting and at the very least could provoke fruitful discussion of what is meant by creativity. Therefore I believe it could make a valuable contribution to the literature.
-
-Literature Cited
-Gabora, L., O’Connor, B., & Ranjan, A. (2012). The recognizability of individual creative styles within and across domains. Psychology of Aesthetics, Creativity, and the Arts, 6(4), 351-360.
-
- ***** ANNA TO CHECK HOW THE GABORA ET AL PAPER FITS INTO THIS
-       (UNLESS THIS COMES UP IN THE WORK BILL IS DOING FOR REVIEWER 1'S MAIN POINT??) *****
-
-A concern I have about the methodology concerns the set of papers used in the analysis, provided in Figure 1. (Note: this figure is rather hazy; in the final paper a higher resolution version should be used.) Despite the authors’ intention to capture how is creativity is understood from a broad range of vantage points and disciplines, almost all of these papers are in psychology journals. In my view they should have included papers from other scholarly journals that discuss creativity and innovation, e.g. design, architecture, art, theatre, film, multimedia, creative writing, electronic arts, and engineering journals.
-
- ***** 
- * We have edited the figure accordingly, thank you for this feedback. Regarding the raised concern: we have added a diagram representing the disciplinary makeup of the corpus, as categorised by the journal disciplinary classification in Scopus. Additionally, we have commented on the disciplinary coverage as part of the added text in the Methods section, which give a detailed report and discussion of our search strategy and methods for compiling the corpus. 
- *****
-
-I would suggest that the authors exaggerate the extent to which scholars differ in their view of what constitutes creativity (see p. 5). Completely unanimous agreement on anything in psychology is rare but it seems to me there is pretty unanimous agreement that creativity be defined in terms of (1) new/original and (2) useful/aesthetically appealing, or some variant of these. The authors’ approach still makes an interesting and provocative contribution even if there is widespread agreement on what creativity is.
-
- ***** ANNA TO ADD CONTENT ON HOW novelty/usefulness ARE NECESSARY BUT NOT SUFFICIENT, USING COMPUTATIONAL CREATIVITY SOFTWARE AND EXTRA COMMENTARY ON CREATIVITY = NOVELTY+USEFULNESS+???  *****
-
-The paper is well-written overall, though there are some minor spelling / grammatical errors, e.g., “which” instead of “that on the first line of the abstract, and missed commas, e.g., after the word ‘sciences’ in the second paragraph.
-
- ***** WE'LL BOTH CATCH SOME OF THESE DURING PROOFREADING/EDITING/FINAL SPELL CHECK. BILL WOULD YOU MIND CHECKING THESE PARTICULAR TYPOS? *****
+We have edited the figure accordingly, thank you for this feedback. Regarding the raised concern: we have added a diagram representing the disciplinary makeup of the corpus, as categorised by the journal disciplinary classification in Scopus. Additionally, we have commented on the disciplinary coverage as part of the added text in the Methods section, which give a detailed report and discussion of our search strategy and methods for compiling the corpus. 
  
+>> I would suggest that the authors exaggerate the extent to which scholars differ in their view of what constitutes creativity (see p. 5). Completely unanimous agreement on anything in psychology is rare but it seems to me there is pretty unanimous agreement that creativity be defined in terms of (1) new/original and (2) useful/aesthetically appealing, or some variant of these. The authors’ approach still makes an interesting and provocative contribution even if there is widespread agreement on what creativity is.
+
+We have substantially edited the review of scholarly opinions on what constitutes creativity, in response to both reviewers' comments on this point. In particular, we have made several edits to the Background section, as indicated by the markup.
+
+We note in line ??209 that although originality and usefulness are indeed widely agreed to be two necessary components of creativity, there are many other components which have arisen in previous analyses which contribute to the understanding of creativity, such as Gabora et al's identification of internal cognitive changes. 
+
+In particular, in our experience, computational modelling of creativity has shown that it is not sufficient to incorporate only novelty and usefulness in software that is designed to be creative; this overlooks the more subtle aspects of creativity that creativity researchers and practicioners have been aware of for some time.
+
+ >> The paper is well-written overall, though there are some minor spelling / grammatical errors, e.g., “which” instead of “that on the first line of the abstract, and missed commas, e.g., after the word ‘sciences’ in the second paragraph.
+
+ The paper has been carefully proof-read post-editing for typos and grammatical errors, including correction of the two specific issues raised by the reviewer.
 
 
  
