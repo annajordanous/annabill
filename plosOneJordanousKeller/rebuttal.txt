@@ -2,64 +2,41 @@ PONE-D-16-09839
 Creativity is what we say it is: identifying key components of creativity
 PLOS ONE
 
-We invite you to submit a revised version of the manuscript that addresses all concerns of the Reviewers. When doing this please indicate in your accompanying letter the exact places of the manuscript, which were changed as the response of the Reviewers’ remark. Please insert a change to the manuscript as a response of each concern. Please insert a section to the Discussion part of the revised manuscript even in case you disagree with any comment of the Reviewers noting the alternative view and the detailed reasons of your disagreement.
+Please find our revised version of the manuscript, where we have addressed all concerns of the Reviewers. We have indicated in this accompanying letter the places of the manuscript which were changed as the response of each Reviewers’ remark. 
 
- ***** IF THERE ARE ANY POINTS WE WANT TO DISAGREE WITH, WE NEED TO PUT COMMENTARY ON THIS IN THE DISCUSSION OF THE PAPER  *****
+In our submission, we include a clean revised manuscript, this response letter, and a marked-up copy of the changes made from the previous article file as a 'Revised Manuscript with Track Changes' file. We have highlighted changes in the new document using LaTeX strikethrough for removed text and bold font for added text.
 
-We encourage you to submit your revision within forty-five days of the date of this decision. Please note that any manuscripts that require a revision period greater than 6 months should be resubmitted as a new submission to PLOS ONE. Any manuscripts remaining in Editorial Manager after 6 months will be withdrawn.
-
- ***** DATE OF DECISION 7 APRIL
-
-When your files are ready, please submit your revision by logging on to http://pone.edmgr.com/ and following the Submissions Needing Revision link. Do not submit a revised manuscript as a new submission. Before uploading, you should proofread your manuscript very closely for mistakes and grammatical errors. Should your manuscript be accepted for publication, you may not have another chance to make corrections as we do not offer pre-publication proofs.
-
- ***** SEE ABOVE!!!  *****
-
-In addition, when submitting your revision please include the following items:
-
-* A rebuttal letter that responds to each point brought up by the academic editor and reviewer(s). This letter should be uploaded as a 'Response to Reviewers' file.
-* A clean revised manuscript as your 'Manuscript' file.
-* A marked-up copy of the changes made from the previous article file as a 'Revised Manuscript with Track Changes' file. This can be done using 'track changes' in programs such as MS Word and/or highlighting any changes in the new document.
-***** WE'VE AGREED TO USE LATEX STRIKETHROUGH FOR REMOVED TEXT, AND BOLD FONT FOR ADDED TEXT *****
-
-While revising your submission, we encourage you to use PACE (the Preflight* Analysis and Conversion Engine, http://pace.apexcovantage.com/), a digital diagnostic and conversion tool for figure files. PACE helps users ensure that their figures meet PLOS requirements and that the quality of published figures will be as high as possible.
+***** While revising your submission, we encourage you to use PACE (the Preflight* Analysis and Conversion Engine, http://pace.apexcovantage.com/), a digital diagnostic and conversion tool for figure files. PACE helps users ensure that their figures meet PLOS requirements and that the quality of published figures will be as high as possible.
 
 ***** ANNA TO LOOK AT THIS *****
 
-To use PACE, you must first register as a user. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email us at figures@plos.org.
+***** Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
 
-For more information on how to upload your revised submission, see our video: http://blogs.plos.org/everyone/2011/05/10/how-to-submit-your-revised-manuscript/
-
-When submitting your revision, we need you to address these additional requirements.
-
-Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
-
-http://www.journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and http://www.journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+***** http://www.journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and http://www.journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
  
-***** ANNA TO DO For some reason, we've fallen foul of some of these, so I'll check that *****
+>> 1.  We request that you please report additional details in your Methods:
+>> i) A detailed overview of the search strategy used to identify papers for the creativity corpus and non-creativity corpus
+>> ii) The specific methods for selecting papers, including inclusion and exclusion criteria
 
-1.  We request that you please report additional details in your Methods:
-i) A detailed overview of the search strategy used to identify papers for the creativity corpus and non-creativity corpus
-ii) The specific methods for selecting papers, including inclusion and exclusion criteria
-In addition, please include a figure of a flow diagram describing your search strategy (see http://prisma-statement.org/PRISMAStatement/FlowDiagram.aspx for examples)
-We appreciate your attention to these requests."
+We have added, as requested, the detailed overview of our search strategy and the methods/criteria for selecting papers. In particular we found that it was particularly helpful, for clarity, to frame our paper selection strategy in terms of inclusion/exclusion criteria. This text has been added to the Corpus data section in Methods.
 
-*****
-* We have added, as requested, the detailed overview of our search strategy and the methods/criteria for selecting papers. In particular we found that it was particularly helpful, for clarity, to frame our paper selection strategy in terms of inclusion/exclusion criteria. This is reported in text added in the Methods section. 
-* Thank you for the link to the flow diagram examples.
-***** PRISMA - ANNA TO DO THIS *****
+>> In addition, please include a figure of a flow diagram describing your search strategy (see http://prisma-statement.org/PRISMAStatement/FlowDiagram.aspx for examples)
 
-JW (Assoc Ed) 9 Mar 2016: **EO** At PRTC, please go back for crosscheck, do not ping with follow up. For crosscheck, please go back with "Thank you for submitting the above manuscript to PLOS ONE. During our internal evaluation of the manuscript, we found significant text overlap between your submission and the following previously published works, on which you are an author:
+A flow diagram has been added as Figure XX for the creativity corpus and Figure XX for the non-creativity corpus. These diagrams were inspired by the PRISMA format (thank you for the link to the flow diagram examples).
 
-http://www.creativitypost.com/technology/technology/evaluating_computational_creativity
-The re-use of text from a previous publication may have implications for the copyright or license that applies to the published article. To avoid any concerns in this respect, we would recommend that you revise the manuscript to either remove any text overlap where possible/appropriate, or to clearly indicate that the text reproduces information already reported in detail elsewhere (e.g. “As described in detail previously [ref],…”) citing the relevant sources.
+>> JW (Assoc Ed) 9 Mar 2016: **EO** At PRTC, please go back for crosscheck, do not ping with follow up. For crosscheck, please go back with "Thank you for submitting the above manuscript to PLOS ONE. During our internal evaluation of the manuscript, we found significant text overlap between your submission and the following previously published works, on which you are an author:
 
-  ***** BILL TO CHECK THIS OVERLAP WITH THE MENTIONED BLOG POST *****
+>> http://www.creativitypost.com/technology/technology/evaluating_computational_creativity
 
-2.
+>> The re-use of text from a previous publication may have implications for the copyright or license that applies to the published article. To avoid any concerns in this respect, we would recommend that you revise the manuscript to either remove any text overlap where possible/appropriate, or to clearly indicate that the text reproduces information already reported in detail elsewhere (e.g. “As described in detail previously [ref],…”) citing the relevant sources.
 
-We note that you stated “data are available upon request” at submission. Could you please upload the minimal data set underlying the findings in your study in the manuscript, supplemental files, or in a stable public repository? If this is not the case, and your data are available upon request because of an ethical or legal restriction, or because you obtained data from a third party, please include the following in your revised cover letter:
+The article being questioned is a short non-peer-reviewed 'pop-science' blog article aimed for a non-scientific audience. It discusses, at a superficial and non-technical level, the problems involved in understanding what creativity is (with a focus on computational creativity rather than the more general view on creativity that this submission takes). The blog post very briefly mentions the results of this work in passing, with no detail at all of the methods, underlying theories or analysis of results. 
 
- ***** BILL TO UPLOAD WORKING DATA SET TO SUSSEX REPOSITORY AND ADD LINK TO DataAvailabilityStatement.rtf FILE  *****
+The only text which is common to both articles is a quotation of the SPECS methodology, which is also included in this submitted article as a quotation. We have carefully examined the text of this blog post with cross-reference to this submitted article, and are satisfied that there is no overlap. We do not believe there is any issue of infringement of copyright between the two pieces.
+
+>> We note that you stated “data are available upon request” at submission. Could you please upload the minimal data set underlying the findings in your study in the manuscript, supplemental files, or in a stable public repository? If this is not the case, and your data are available upon request because of an ethical or legal restriction, or because you obtained data from a third party, please include the following in your revised cover letter:
+
+We have uploaded all data generated during this study to one of the author's repository at http://users.sussex.ac.uk/~billk/bill_keller/downloads/index.html and we have added details and a link to the submitted DataAvailabilityStatement.rtf.
  
 3. Please upload a copy of Figure1-6, to which you refer ithroughtout your manuscript. If the figure is no longer to be included as part of the submission please remove all reference to it within the text.
 
