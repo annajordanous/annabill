@@ -2,18 +2,16 @@ PONE-D-16-09839
 Creativity is what we say it is: identifying key components of creativity
 PLOS ONE
 
+We send our thanks to the reviewers and editor for their useful and constructive comments, and appreciate the time they have taken. 
+
 Please find our revised version of the manuscript, where we have addressed all concerns of the Reviewers. We have indicated in this accompanying letter the places of the manuscript which were changed as the response of each Reviewers’ remark. 
 
 In our submission, we include a clean revised manuscript, this response letter, and a marked-up copy of the changes made from the previous article file as a 'Revised Manuscript with Track Changes' file. We have highlighted changes in the new document using LaTeX strikethrough for removed text and bold font for added text.
 
-***** While revising your submission, we encourage you to use PACE (the Preflight* Analysis and Conversion Engine, http://pace.apexcovantage.com/), a digital diagnostic and conversion tool for figure files. PACE helps users ensure that their figures meet PLOS requirements and that the quality of published figures will be as high as possible.
+>> While revising your submission, we encourage you to use PACE (the Preflight* Analysis and Conversion Engine, http://pace.apexcovantage.com/), a digital diagnostic and conversion tool for figure files. PACE helps users ensure that their figures meet PLOS requirements and that the quality of published figures will be as high as possible.
 
-***** ANNA TO LOOK AT THIS *****
+This has been done. 
 
-***** Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
-
-***** http://www.journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and http://www.journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
- 
 >> 1.  We request that you please report additional details in your Methods:
 >> i) A detailed overview of the search strategy used to identify papers for the creativity corpus and non-creativity corpus
 >> ii) The specific methods for selecting papers, including inclusion and exclusion criteria
@@ -47,7 +45,7 @@ We have uploaded all data generated during this study to one of the author's rep
 
 We are very grateful for the feedback from the first reviewer. We agree that the point of the work is not to provide a definition at all, but to present an approach to a model of creativity. We are particularly pleased that the reviewer feels that there is merit in the general approach and that the proposed model is something that other scholars and practitioners would share. This was a very helpful and informative comment and has helped us to reframe the paper in terms of developing a model of creativity. 
 
-Thank you to the reviewer also for pointing us at Vartanian (2014) which is very relevant to the current work: we have added a citation in the Background section (line no.: ??). The title has been amended to reflect the reframing and we have carefully edited the text throughout to ensure that the emphasis on modelling rather than definition is clear. The abstract and introductory sections have been reframed accordingly, in particular the Background section. The resulting changes mean that the paper provides a clearer account of the work, and a contribution towards understanding what processes and concepts relevant to creativity are 'sufficiently important to warrant study' based on 'an accumulation of the body of work on creativity to date' (Vartanian 2014).
+Thank you to the reviewer also for pointing us at Vartanian (2014) which is very relevant to the current work: we have added a citation in the Background section (lines no 123-126 in the Tracked Changes manuscript). The title has been amended to reflect the reframing and we have carefully edited the text throughout to ensure that the emphasis on modelling rather than definition is clear. The abstract and introductory sections have been reframed accordingly, in particular the Background section. The resulting changes mean that the paper provides a clearer account of the work, and a contribution towards understanding what processes and concepts relevant to creativity are 'sufficiently important to warrant study' based on 'an accumulation of the body of work on creativity to date' (Vartanian 2014).
 
 >> In general, I found the methods to be well-explained and carefully done, but I have some experience using these methods (albeit limited), and other reviewers without such experience may request greater detail, which I would understand. But for me, they felt appropriate and offered a unique way to get at the components of creativity.
 
@@ -76,9 +74,9 @@ We have edited the figure accordingly, thank you for this feedback. Regarding th
 
 We have substantially edited the review of scholarly opinions on what constitutes creativity, in response to both reviewers' comments on this point. In particular, we have made several edits to the Background section, as indicated by the markup.
 
-We note in line ??209 that although originality and usefulness are indeed widely agreed to be two necessary components of creativity, there are many other components which have arisen in previous analyses which contribute to the understanding of creativity, such as Gabora et al's identification of internal cognitive changes. 
+We note in lines 208-213 of the Tracked Changes Manuscript that although originality and usefulness are indeed widely agreed to be two necessary components of creativity, there are many other components which have arisen in previous analyses which contribute to the understanding of creativity, such as Gabora et al's identification of internal cognitive changes. 
 
-In particular, in our experience, computational modelling of creativity has shown that it is not sufficient to incorporate only novelty and usefulness in software that is designed to be creative; this overlooks the more subtle aspects of creativity that creativity researchers and practicioners have been aware of for some time.
+In particular, in our experience, computational modelling of creativity has shown that it is not sufficient to incorporate only novelty and usefulness in software that is designed to be creative; this overlooks the more subtle aspects of creativity that creativity researchers and practitioners have been aware of for some time.
 
  >> The paper is well-written overall, though there are some minor spelling / grammatical errors, e.g., “which” instead of “that on the first line of the abstract, and missed commas, e.g., after the word ‘sciences’ in the second paragraph.
 
